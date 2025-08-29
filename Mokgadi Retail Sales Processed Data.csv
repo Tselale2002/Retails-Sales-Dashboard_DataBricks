@@ -1,0 +1,1001 @@
+Day,Month,No_of_customers,Revenue,Avg_Revenue,Transaction ID,Age,Date,Gender,Product Category,Price_bucket,Age_group
+Tue,December,1,50,50.0,25,64,2023-12-26,Female,Beauty,Low Price,Senior Citizen
+Sat,May,1,30,30.0,90,51,2023-05-06,Female,Electronics,Low Price,Senior Citizen
+Fri,October,1,1000,1000.0,97,51,2023-10-13,Female,Beauty,High Price,Senior Citizen
+Sun,August,1,200,200.0,217,35,2023-08-13,Female,Electronics,Low Price,Young Adult
+Mon,May,1,500,500.0,337,38,2023-05-01,Male,Clothing,High Price,Young Adult
+Fri,December,1,600,600.0,392,27,2023-12-08,Male,Clothing,Medium Price,Youth
+Mon,May,1,90,90.0,419,44,2023-05-22,Female,Clothing,Low Price,Adult
+Wed,February,1,50,50.0,434,43,2023-02-08,Female,Electronics,Low Price,Adult
+Wed,August,1,600,600.0,443,29,2023-08-09,Male,Clothing,Medium Price,Youth
+Tue,October,1,1200,1200.0,524,46,2023-10-03,Male,Beauty,Medium Price,Adult
+Sat,May,1,200,200.0,639,62,2023-05-13,Female,Beauty,Low Price,Senior Citizen
+Thu,December,1,2000,2000.0,664,44,2023-12-28,Female,Clothing,High Price,Adult
+Sat,May,1,600,600.0,838,47,2023-05-13,Male,Electronics,Medium Price,Adult
+Wed,April,1,900,900.0,891,41,2023-04-05,Male,Electronics,Medium Price,Adult
+Sun,April,1,500,500.0,28,43,2023-04-23,Female,Beauty,High Price,Adult
+Sat,August,1,900,900.0,35,58,2023-08-05,Female,Beauty,Medium Price,Senior Citizen
+Fri,February,1,1500,1500.0,54,38,2023-02-10,Female,Electronics,High Price,Young Adult
+Sun,April,1,2000,2000.0,166,34,2023-04-02,Male,Clothing,High Price,Young Adult
+Wed,July,1,200,200.0,186,20,2023-07-05,Male,Clothing,Low Price,Youth
+Sun,February,1,30,30.0,195,52,2023-02-05,Male,Clothing,Low Price,Senior Citizen
+Thu,April,1,1200,1200.0,332,58,2023-04-06,Male,Electronics,Medium Price,Senior Citizen
+Thu,October,1,50,50.0,349,57,2023-10-26,Female,Beauty,Low Price,Senior Citizen
+Fri,July,1,900,900.0,457,58,2023-07-28,Female,Beauty,Medium Price,Senior Citizen
+Mon,October,1,100,100.0,516,30,2023-10-23,Male,Beauty,Low Price,Youth
+Fri,October,1,100,100.0,619,47,2023-10-13,Male,Electronics,Low Price,Adult
+Tue,April,1,100,100.0,738,41,2023-04-25,Male,Clothing,Low Price,Adult
+Mon,March,1,500,500.0,760,27,2023-03-27,Male,Beauty,High Price,Youth
+Fri,September,1,100,100.0,873,27,2023-09-29,Female,Electronics,Low Price,Youth
+Tue,November,1,50,50.0,963,55,2023-11-14,Female,Beauty,Low Price,Senior Citizen
+Tue,January,1,900,900.0,964,24,2023-01-31,Male,Clothing,Medium Price,Youth
+Wed,May,1,30,30.0,974,47,2023-05-03,Male,Beauty,Low Price,Adult
+Tue,December,1,100,100.0,991,34,2023-12-26,Female,Clothing,Low Price,Young Adult
+Sat,June,1,900,900.0,36,52,2023-06-24,Male,Beauty,Medium Price,Senior Citizen
+Sat,November,1,30,30.0,57,63,2023-11-18,Female,Beauty,Low Price,Senior Citizen
+Wed,January,1,150,150.0,231,23,2023-01-04,Female,Clothing,Low Price,Youth
+Fri,December,1,600,600.0,233,51,2023-12-29,Female,Beauty,Medium Price,Senior Citizen
+Tue,April,1,1500,1500.0,280,37,2023-04-04,Female,Clothing,High Price,Young Adult
+Fri,February,1,1200,1200.0,292,20,2023-02-17,Male,Beauty,Medium Price,Youth
+Thu,October,1,500,500.0,319,31,2023-10-05,Male,Clothing,High Price,Young Adult
+Sun,June,1,300,300.0,365,31,2023-06-11,Male,Clothing,Medium Price,Young Adult
+Mon,December,1,900,900.0,409,21,2023-12-18,Female,Electronics,Medium Price,Youth
+Sun,July,1,75,75.0,439,50,2023-07-09,Male,Clothing,Low Price,Adult
+Thu,October,1,600,600.0,440,64,2023-10-26,Male,Clothing,Medium Price,Senior Citizen
+Tue,December,1,900,900.0,472,38,2023-12-26,Female,Beauty,Medium Price,Young Adult
+Fri,September,1,600,600.0,637,43,2023-09-01,Male,Clothing,Medium Price,Adult
+Thu,December,1,60,60.0,701,52,2023-12-14,Female,Beauty,Low Price,Senior Citizen
+Tue,October,1,1500,1500.0,710,26,2023-10-31,Female,Electronics,High Price,Youth
+Wed,February,1,100,100.0,775,46,2023-02-08,Female,Electronics,Low Price,Adult
+Sun,January,1,100,100.0,831,27,2023-01-15,Male,Electronics,Low Price,Youth
+Mon,March,1,150,150.0,910,20,2023-03-06,Female,Beauty,Low Price,Youth
+Tue,December,1,600,600.0,96,44,2023-12-19,Female,Clothing,Medium Price,Adult
+Thu,November,1,50,50.0,141,22,2023-11-02,Female,Electronics,Low Price,Youth
+Fri,December,1,60,60.0,266,19,2023-12-01,Female,Electronics,Low Price,Youth
+Sat,May,1,600,600.0,380,56,2023-05-06,Male,Electronics,Medium Price,Senior Citizen
+Mon,November,1,1200,1200.0,405,25,2023-11-06,Female,Clothing,Medium Price,Youth
+Tue,May,1,30,30.0,489,44,2023-05-23,Male,Electronics,Low Price,Adult
+Sun,November,1,900,900.0,690,52,2023-11-05,Female,Clothing,Medium Price,Senior Citizen
+Wed,May,1,2000,2000.0,731,54,2023-05-10,Male,Clothing,High Price,Senior Citizen
+Sun,July,1,2000,2000.0,773,25,2023-07-23,Male,Electronics,High Price,Youth
+Wed,July,1,30,30.0,802,46,2023-07-05,Female,Beauty,Low Price,Adult
+Tue,December,1,600,600.0,842,47,2023-12-26,Female,Clothing,Medium Price,Adult
+Fri,January,1,500,500.0,845,54,2023-01-06,Male,Clothing,High Price,Senior Citizen
+Mon,November,1,120,120.0,856,54,2023-11-27,Male,Electronics,Low Price,Senior Citizen
+Wed,October,1,75,75.0,872,63,2023-10-11,Female,Beauty,Low Price,Senior Citizen
+Mon,October,1,1200,1200.0,943,57,2023-10-16,Female,Clothing,Medium Price,Senior Citizen
+Tue,February,1,100,100.0,11,23,2023-02-14,Male,Clothing,Low Price,Youth
+Tue,January,1,120,120.0,14,64,2023-01-17,Male,Clothing,Low Price,Senior Citizen
+Fri,February,1,1200,1200.0,107,21,2023-02-03,Female,Clothing,Medium Price,Youth
+Fri,November,1,1200,1200.0,181,19,2023-11-03,Male,Electronics,Medium Price,Youth
+Mon,May,1,50,50.0,273,22,2023-05-08,Female,Beauty,Low Price,Youth
+Wed,March,1,100,100.0,328,39,2023-03-22,Male,Beauty,Low Price,Young Adult
+Sat,February,1,120,120.0,335,47,2023-02-04,Female,Beauty,Low Price,Adult
+Mon,November,1,25,25.0,362,50,2023-11-27,Male,Clothing,Low Price,Adult
+Wed,March,1,90,90.0,383,46,2023-03-22,Female,Beauty,Low Price,Adult
+Fri,March,1,25,25.0,397,30,2023-03-10,Female,Beauty,Low Price,Youth
+Wed,March,1,60,60.0,399,64,2023-03-01,Female,Beauty,Low Price,Senior Citizen
+Fri,December,1,900,900.0,540,46,2023-12-08,Female,Electronics,Medium Price,Adult
+Fri,August,1,100,100.0,549,50,2023-08-04,Female,Beauty,Low Price,Adult
+Fri,May,1,120,120.0,578,54,2023-05-26,Female,Clothing,Low Price,Senior Citizen
+Sat,May,1,150,150.0,651,51,2023-05-27,Male,Clothing,Low Price,Senior Citizen
+Thu,February,1,150,150.0,666,51,2023-02-02,Male,Electronics,Low Price,Senior Citizen
+Tue,December,1,25,25.0,791,51,2023-12-05,Female,Beauty,Low Price,Senior Citizen
+Wed,December,1,50,50.0,890,34,2023-12-20,Male,Electronics,Low Price,Young Adult
+Fri,April,1,120,120.0,39,23,2023-04-21,Male,Clothing,Low Price,Youth
+Mon,October,1,150,150.0,60,30,2023-10-23,Male,Beauty,Low Price,Youth
+Sat,July,1,100,100.0,114,22,2023-07-22,Female,Beauty,Low Price,Youth
+Sun,March,1,500,500.0,130,57,2023-03-12,Female,Clothing,High Price,Senior Citizen
+Fri,January,1,120,120.0,150,58,2023-01-06,Female,Electronics,Low Price,Senior Citizen
+Tue,November,1,25,25.0,205,43,2023-11-07,Female,Clothing,Low Price,Adult
+Fri,April,1,25,25.0,236,54,2023-04-28,Female,Clothing,Low Price,Senior Citizen
+Sun,February,1,2000,2000.0,257,19,2023-02-19,Male,Beauty,High Price,Youth
+Thu,June,1,60,60.0,315,47,2023-06-01,Male,Clothing,Low Price,Adult
+Sat,February,1,1000,1000.0,346,59,2023-02-11,Male,Clothing,High Price,Senior Citizen
+Sun,January,1,1500,1500.0,522,46,2023-01-01,Male,Beauty,High Price,Adult
+Tue,August,1,200,200.0,569,52,2023-08-15,Male,Electronics,Low Price,Senior Citizen
+Fri,November,1,90,90.0,631,56,2023-11-10,Male,Electronics,Low Price,Senior Citizen
+Thu,August,1,200,200.0,801,21,2023-08-10,Male,Clothing,Low Price,Youth
+Thu,August,1,30,30.0,804,42,2023-08-24,Male,Electronics,Low Price,Adult
+Tue,July,1,500,500.0,904,28,2023-07-04,Male,Clothing,High Price,Youth
+Sun,May,1,900,900.0,911,42,2023-05-21,Male,Electronics,Medium Price,Adult
+Sat,February,1,100,100.0,972,49,2023-02-11,Male,Beauty,Low Price,Adult
+Tue,August,1,500,500.0,984,56,2023-08-29,Male,Clothing,High Price,Senior Citizen
+Wed,March,1,1000,1000.0,117,19,2023-03-15,Male,Electronics,High Price,Youth
+Sat,July,1,1500,1500.0,144,59,2023-07-15,Female,Beauty,High Price,Senior Citizen
+Mon,February,1,25,25.0,185,24,2023-02-27,Male,Clothing,Low Price,Youth
+Sat,September,1,50,50.0,325,52,2023-09-02,Female,Electronics,Low Price,Senior Citizen
+Mon,October,1,60,60.0,370,23,2023-10-16,Male,Electronics,Low Price,Youth
+Fri,March,1,1200,1200.0,553,24,2023-03-31,Male,Clothing,Medium Price,Youth
+Wed,November,1,200,200.0,628,19,2023-11-01,Female,Beauty,Low Price,Youth
+Mon,June,1,1200,1200.0,669,24,2023-06-19,Male,Beauty,Medium Price,Youth
+Sun,January,1,25,25.0,907,45,2023-01-08,Female,Electronics,Low Price,Adult
+Thu,June,1,50,50.0,40,45,2023-06-22,Male,Beauty,Low Price,Adult
+Mon,May,1,1200,1200.0,67,48,2023-05-29,Female,Beauty,Medium Price,Adult
+Wed,November,1,2000,2000.0,74,18,2023-11-22,Female,Beauty,High Price,Youth
+Sat,December,1,1500,1500.0,112,37,2023-12-02,Male,Clothing,High Price,Young Adult
+Tue,May,1,60,60.0,148,18,2023-05-09,Male,Clothing,Low Price,Youth
+Tue,February,1,2000,2000.0,152,43,2023-02-28,Male,Electronics,High Price,Adult
+Mon,October,1,900,900.0,154,51,2023-10-02,Male,Electronics,Medium Price,Senior Citizen
+Fri,September,1,150,150.0,200,27,2023-09-01,Male,Beauty,Low Price,Youth
+Wed,December,1,200,200.0,209,30,2023-12-20,Female,Electronics,Low Price,Youth
+Mon,June,1,1500,1500.0,239,38,2023-06-19,Male,Electronics,High Price,Young Adult
+Thu,January,1,50,50.0,367,57,2023-01-05,Female,Electronics,Low Price,Senior Citizen
+Sat,December,1,30,30.0,451,45,2023-12-16,Female,Electronics,Low Price,Adult
+Tue,February,1,300,300.0,596,64,2023-02-07,Female,Electronics,Medium Price,Senior Citizen
+Sat,April,1,1200,1200.0,614,39,2023-04-01,Female,Beauty,Medium Price,Young Adult
+Sun,March,1,30,30.0,659,39,2023-03-19,Female,Electronics,Low Price,Young Adult
+Wed,February,1,1500,1500.0,673,43,2023-02-01,Female,Clothing,High Price,Adult
+Mon,May,1,1500,1500.0,843,21,2023-05-22,Male,Beauty,High Price,Youth
+Thu,October,1,300,300.0,852,41,2023-10-12,Female,Clothing,Medium Price,Adult
+Fri,May,1,900,900.0,923,32,2023-05-26,Male,Beauty,Medium Price,Young Adult
+Mon,April,1,25,25.0,967,62,2023-04-17,Male,Beauty,Low Price,Senior Citizen
+Fri,November,1,900,900.0,968,48,2023-11-17,Female,Clothing,Medium Price,Adult
+Mon,December,1,1000,1000.0,994,51,2023-12-18,Female,Beauty,High Price,Senior Citizen
+Sat,October,1,200,200.0,10,52,2023-10-07,Female,Clothing,Low Price,Senior Citizen
+Fri,July,1,900,900.0,295,27,2023-07-28,Female,Beauty,Medium Price,Youth
+Sat,January,1,30,30.0,344,42,2023-01-21,Female,Beauty,Low Price,Adult
+Sat,April,1,500,500.0,408,64,2023-04-15,Female,Beauty,High Price,Senior Citizen
+Tue,November,1,100,100.0,410,29,2023-11-21,Female,Clothing,Low Price,Youth
+Sun,April,1,150,150.0,465,43,2023-04-02,Female,Electronics,Low Price,Adult
+Tue,November,1,60,60.0,565,45,2023-11-07,Female,Beauty,Low Price,Adult
+Tue,January,1,2000,2000.0,592,46,2023-01-24,Female,Beauty,High Price,Adult
+Fri,October,1,1500,1500.0,677,19,2023-10-27,Female,Beauty,High Price,Youth
+Sun,January,1,500,500.0,697,53,2023-01-15,Male,Clothing,High Price,Senior Citizen
+Tue,August,1,25,25.0,790,62,2023-08-08,Male,Clothing,Low Price,Senior Citizen
+Thu,March,1,100,100.0,33,50,2023-03-23,Female,Electronics,Low Price,Adult
+Sat,August,1,25,25.0,206,61,2023-08-05,Male,Clothing,Low Price,Senior Citizen
+Wed,October,1,60,60.0,247,41,2023-10-04,Male,Electronics,Low Price,Adult
+Wed,August,1,200,200.0,259,45,2023-08-09,Female,Clothing,Low Price,Adult
+Sun,July,1,120,120.0,262,32,2023-07-30,Female,Beauty,Low Price,Young Adult
+Fri,January,1,100,100.0,591,53,2023-01-13,Male,Electronics,Low Price,Senior Citizen
+Thu,March,1,1500,1500.0,636,21,2023-03-23,Female,Beauty,High Price,Youth
+Sat,January,1,75,75.0,713,34,2023-01-14,Male,Beauty,Low Price,Young Adult
+Fri,July,1,150,150.0,728,51,2023-07-14,Male,Electronics,Low Price,Senior Citizen
+Mon,December,1,1200,1200.0,757,43,2023-12-25,Female,Electronics,Medium Price,Adult
+Wed,December,1,300,300.0,868,25,2023-12-06,Female,Electronics,Medium Price,Youth
+Mon,October,1,50,50.0,889,35,2023-10-02,Female,Electronics,Low Price,Young Adult
+Fri,February,1,30,30.0,933,22,2023-02-03,Male,Beauty,Low Price,Youth
+Fri,May,1,1000,1000.0,94,47,2023-05-19,Female,Beauty,High Price,Adult
+Mon,November,1,50,50.0,234,62,2023-11-20,Female,Electronics,Low Price,Senior Citizen
+Thu,September,1,75,75.0,241,23,2023-09-21,Female,Electronics,Low Price,Youth
+Tue,August,1,25,25.0,285,31,2023-08-15,Female,Electronics,Low Price,Young Adult
+Mon,September,1,90,90.0,351,56,2023-09-25,Female,Clothing,Low Price,Senior Citizen
+Wed,August,1,500,500.0,364,19,2023-08-23,Female,Beauty,High Price,Youth
+Tue,October,1,200,200.0,428,40,2023-10-10,Female,Electronics,Low Price,Young Adult
+Thu,January,1,1000,1000.0,432,60,2023-01-05,Female,Electronics,High Price,Senior Citizen
+Sat,August,1,100,100.0,511,45,2023-08-12,Male,Beauty,Low Price,Adult
+Fri,December,1,100,100.0,520,49,2023-12-29,Female,Electronics,Low Price,Adult
+Sat,December,1,300,300.0,602,20,2023-12-23,Female,Electronics,Medium Price,Youth
+Tue,May,1,1200,1200.0,729,29,2023-05-23,Male,Clothing,Medium Price,Youth
+Fri,June,1,200,200.0,833,42,2023-06-16,Male,Beauty,Low Price,Adult
+Tue,January,1,150,150.0,912,51,2023-01-24,Male,Beauty,Low Price,Senior Citizen
+Sun,November,1,200,200.0,938,49,2023-11-19,Male,Clothing,Low Price,Adult
+Mon,March,1,100,100.0,175,31,2023-03-20,Female,Electronics,Low Price,Young Adult
+Fri,March,1,100,100.0,177,45,2023-03-24,Male,Beauty,Low Price,Adult
+Sat,April,1,30,30.0,255,48,2023-04-08,Male,Clothing,Low Price,Adult
+Mon,December,1,900,900.0,265,55,2023-12-11,Male,Clothing,Medium Price,Senior Citizen
+Fri,September,1,75,75.0,413,44,2023-09-08,Female,Beauty,Low Price,Adult
+Tue,November,1,100,100.0,458,39,2023-11-14,Female,Electronics,Low Price,Young Adult
+Thu,June,1,100,100.0,492,61,2023-06-29,Male,Beauty,Low Price,Senior Citizen
+Wed,December,1,75,75.0,552,49,2023-12-13,Female,Electronics,Low Price,Adult
+Thu,July,1,600,600.0,702,60,2023-07-27,Female,Clothing,Medium Price,Senior Citizen
+Fri,July,1,900,900.0,722,20,2023-07-14,Male,Beauty,Medium Price,Youth
+Tue,November,1,300,300.0,795,57,2023-11-28,Male,Electronics,Medium Price,Senior Citizen
+Sun,March,1,50,50.0,941,57,2023-03-19,Female,Clothing,Low Price,Senior Citizen
+Tue,December,1,200,200.0,971,27,2023-12-05,Female,Electronics,Low Price,Youth
+Wed,August,1,30,30.0,116,23,2023-08-23,Female,Clothing,Low Price,Youth
+Tue,May,1,2000,2000.0,118,30,2023-05-16,Female,Electronics,High Price,Youth
+Thu,October,1,90,90.0,126,28,2023-10-26,Female,Clothing,Low Price,Youth
+Sun,February,1,50,50.0,135,20,2023-02-26,Male,Clothing,Low Price,Youth
+Sun,September,1,150,150.0,167,43,2023-09-17,Female,Clothing,Low Price,Adult
+Tue,August,1,75,75.0,622,49,2023-08-22,Female,Beauty,Low Price,Adult
+Tue,February,1,50,50.0,763,34,2023-02-28,Male,Clothing,Low Price,Young Adult
+Sat,November,1,100,100.0,778,47,2023-11-18,Female,Beauty,Low Price,Adult
+Sat,April,1,1200,1200.0,847,18,2023-04-08,Female,Electronics,Medium Price,Youth
+Tue,June,1,500,500.0,867,21,2023-06-06,Male,Electronics,High Price,Youth
+Mon,February,1,150,150.0,993,48,2023-02-06,Female,Electronics,Low Price,Adult
+Mon,August,1,50,50.0,306,54,2023-08-21,Male,Electronics,Low Price,Senior Citizen
+Wed,December,1,600,600.0,386,54,2023-12-27,Female,Electronics,Medium Price,Senior Citizen
+Tue,May,1,600,600.0,398,48,2023-05-16,Female,Clothing,Medium Price,Adult
+Sat,May,1,600,600.0,403,32,2023-05-20,Male,Clothing,Medium Price,Young Adult
+Sun,March,1,120,120.0,536,55,2023-03-05,Female,Beauty,Low Price,Senior Citizen
+Sun,August,1,500,500.0,612,61,2023-08-06,Female,Electronics,High Price,Senior Citizen
+Wed,October,1,90,90.0,656,29,2023-10-04,Male,Beauty,Low Price,Youth
+Tue,August,1,100,100.0,672,34,2023-08-01,Female,Beauty,Low Price,Young Adult
+Thu,September,1,100,100.0,692,64,2023-09-07,Female,Clothing,Low Price,Senior Citizen
+Sat,December,1,100,100.0,752,29,2023-12-09,Male,Clothing,Low Price,Youth
+Tue,February,1,30,30.0,753,32,2023-02-28,Female,Clothing,Low Price,Young Adult
+Wed,February,1,50,50.0,780,52,2023-02-22,Male,Electronics,Low Price,Senior Citizen
+Thu,November,1,100,100.0,841,31,2023-11-02,Male,Electronics,Low Price,Young Adult
+Fri,September,1,25,25.0,855,54,2023-09-01,Male,Beauty,Low Price,Senior Citizen
+Tue,September,1,30,30.0,894,52,2023-09-05,Male,Electronics,Low Price,Senior Citizen
+Mon,December,1,300,300.0,939,46,2023-12-18,Female,Electronics,Medium Price,Adult
+Thu,December,1,25,25.0,989,44,2023-12-28,Female,Electronics,Low Price,Adult
+Wed,April,1,75,75.0,108,27,2023-04-19,Female,Beauty,Low Price,Youth
+Fri,December,1,2000,2000.0,139,36,2023-12-15,Male,Beauty,High Price,Young Adult
+Fri,June,1,50,50.0,224,25,2023-06-23,Female,Clothing,Low Price,Youth
+Tue,November,1,30,30.0,345,62,2023-11-14,Male,Electronics,Low Price,Senior Citizen
+Sat,April,1,1200,1200.0,462,63,2023-04-01,Male,Electronics,Medium Price,Senior Citizen
+Sun,September,1,300,300.0,523,62,2023-09-24,Female,Electronics,Medium Price,Senior Citizen
+Thu,June,1,120,120.0,699,37,2023-06-22,Female,Clothing,Low Price,Young Adult
+Sun,September,1,300,300.0,794,60,2023-09-17,Female,Beauty,Medium Price,Senior Citizen
+Fri,May,1,120,120.0,824,63,2023-05-05,Male,Clothing,Low Price,Senior Citizen
+Mon,June,1,25,25.0,877,58,2023-06-19,Female,Clothing,Low Price,Senior Citizen
+Tue,February,1,200,200.0,936,57,2023-02-07,Male,Beauty,Low Price,Senior Citizen
+Tue,October,1,600,600.0,976,48,2023-10-10,Female,Beauty,Medium Price,Adult
+Sat,April,1,900,900.0,987,30,2023-04-29,Female,Clothing,Medium Price,Youth
+Mon,February,1,300,300.0,240,23,2023-02-06,Female,Beauty,Medium Price,Youth
+Tue,March,1,1500,1500.0,313,55,2023-03-21,Female,Beauty,High Price,Senior Citizen
+Sun,June,1,1000,1000.0,352,57,2023-06-11,Male,Electronics,High Price,Senior Citizen
+Wed,October,1,300,300.0,401,62,2023-10-11,Female,Clothing,Medium Price,Senior Citizen
+Thu,August,1,1200,1200.0,479,52,2023-08-24,Male,Electronics,Medium Price,Senior Citizen
+Tue,April,1,50,50.0,562,54,2023-04-18,Male,Electronics,Low Price,Senior Citizen
+Thu,February,1,600,600.0,649,58,2023-02-09,Female,Clothing,Medium Price,Senior Citizen
+Thu,June,1,900,900.0,727,55,2023-06-22,Male,Beauty,Medium Price,Senior Citizen
+Tue,October,1,100,100.0,786,48,2023-10-17,Male,Clothing,Low Price,Adult
+Sun,January,1,25,25.0,787,41,2023-01-22,Male,Electronics,Low Price,Adult
+Sun,November,1,75,75.0,812,19,2023-11-12,Male,Electronics,Low Price,Youth
+Thu,June,1,150,150.0,830,64,2023-06-22,Female,Clothing,Low Price,Senior Citizen
+Fri,July,1,1000,1000.0,850,26,2023-07-28,Female,Beauty,High Price,Youth
+Wed,October,1,1500,1500.0,869,37,2023-10-25,Male,Beauty,High Price,Young Adult
+Sun,December,1,60,60.0,80,64,2023-12-10,Female,Clothing,Low Price,Senior Citizen
+Sat,November,1,1000,1000.0,137,46,2023-11-18,Male,Beauty,High Price,Adult
+Tue,July,1,100,100.0,176,43,2023-07-11,Female,Beauty,Low Price,Adult
+Sat,June,1,50,50.0,321,26,2023-06-10,Female,Electronics,Low Price,Youth
+Sat,June,1,1500,1500.0,356,50,2023-06-10,Male,Electronics,High Price,Adult
+Tue,March,1,600,600.0,402,41,2023-03-21,Female,Clothing,Medium Price,Adult
+Fri,March,1,100,100.0,442,60,2023-03-17,Female,Clothing,Low Price,Senior Citizen
+Thu,July,1,90,90.0,557,20,2023-07-27,Female,Beauty,Low Price,Youth
+Sat,May,1,60,60.0,593,35,2023-05-06,Male,Electronics,Low Price,Young Adult
+Tue,August,1,30,30.0,733,34,2023-08-29,Male,Beauty,Low Price,Young Adult
+Wed,November,1,30,30.0,747,23,2023-11-15,Male,Beauty,Low Price,Youth
+Wed,April,1,50,50.0,774,40,2023-04-12,Female,Clothing,Low Price,Young Adult
+Sun,July,1,50,50.0,792,20,2023-07-09,Female,Beauty,Low Price,Youth
+Thu,May,1,50,50.0,849,32,2023-05-04,Male,Clothing,Low Price,Young Adult
+Thu,March,1,300,300.0,947,50,2023-03-02,Male,Beauty,Medium Price,Adult
+Sat,August,1,60,60.0,981,30,2023-08-19,Female,Electronics,Low Price,Youth
+Wed,November,1,300,300.0,983,29,2023-11-01,Female,Clothing,Medium Price,Youth
+Tue,May,1,50,50.0,985,19,2023-05-30,Female,Electronics,Low Price,Youth
+Wed,February,1,100,100.0,8,30,2023-02-22,Male,Electronics,Low Price,Youth
+Tue,March,1,200,200.0,38,38,2023-03-21,Male,Beauty,Low Price,Young Adult
+Mon,November,1,1200,1200.0,58,18,2023-11-13,Male,Clothing,Medium Price,Youth
+Tue,December,1,2000,2000.0,65,51,2023-12-05,Male,Electronics,High Price,Senior Citizen
+Sat,December,1,100,100.0,83,54,2023-12-16,Male,Electronics,Low Price,Senior Citizen
+Fri,December,1,50,50.0,151,29,2023-12-15,Male,Clothing,Low Price,Youth
+Mon,October,1,25,25.0,201,56,2023-10-09,Male,Electronics,Low Price,Senior Citizen
+Wed,July,1,60,60.0,304,37,2023-07-19,Female,Electronics,Low Price,Young Adult
+Mon,September,1,200,200.0,330,25,2023-09-18,Female,Beauty,Low Price,Youth
+Thu,February,1,30,30.0,396,55,2023-02-23,Female,Beauty,Low Price,Senior Citizen
+Fri,February,1,200,200.0,400,53,2023-02-24,Male,Clothing,Low Price,Senior Citizen
+Sat,March,1,1000,1000.0,461,18,2023-03-25,Female,Beauty,High Price,Youth
+Tue,May,1,150,150.0,504,38,2023-05-16,Female,Beauty,Low Price,Young Adult
+Thu,May,1,30,30.0,518,40,2023-05-11,Female,Clothing,Low Price,Young Adult
+Mon,June,1,120,120.0,532,64,2023-06-19,Female,Clothing,Low Price,Senior Citizen
+Sat,March,1,1000,1000.0,621,40,2023-03-04,Female,Beauty,High Price,Young Adult
+Sun,September,1,90,90.0,643,28,2023-09-24,Female,Electronics,Low Price,Youth
+Wed,July,1,30,30.0,772,26,2023-07-12,Male,Electronics,Low Price,Youth
+Sun,June,1,900,900.0,782,59,2023-06-04,Male,Clothing,Medium Price,Senior Citizen
+Sat,November,1,500,500.0,784,34,2023-11-04,Female,Electronics,High Price,Young Adult
+Sat,April,1,2000,2000.0,808,33,2023-04-01,Male,Beauty,High Price,Young Adult
+Mon,August,1,1000,1000.0,880,22,2023-08-21,Male,Beauty,High Price,Youth
+Wed,February,1,75,75.0,920,28,2023-02-22,Female,Beauty,Low Price,Youth
+Fri,November,1,90,90.0,997,52,2023-11-17,Male,Beauty,Low Price,Senior Citizen
+Sun,February,1,25,25.0,44,22,2023-02-19,Female,Clothing,Low Price,Youth
+Sun,March,1,300,300.0,52,36,2023-03-05,Female,Beauty,Medium Price,Young Adult
+Sun,June,1,1000,1000.0,104,34,2023-06-11,Female,Beauty,High Price,Young Adult
+Tue,May,1,25,25.0,242,21,2023-05-02,Male,Clothing,Low Price,Youth
+Mon,January,1,90,90.0,303,19,2023-01-02,Male,Electronics,Low Price,Youth
+Tue,February,1,1500,1500.0,372,24,2023-02-07,Female,Beauty,High Price,Youth
+Fri,January,1,600,600.0,464,38,2023-01-13,Male,Electronics,Medium Price,Young Adult
+Mon,January,1,120,120.0,519,36,2023-01-23,Female,Electronics,Low Price,Young Adult
+Tue,August,1,1200,1200.0,716,60,2023-08-08,Female,Clothing,Medium Price,Senior Citizen
+Fri,August,1,200,200.0,807,50,2023-08-11,Female,Electronics,Low Price,Adult
+Sun,November,1,1500,1500.0,115,51,2023-11-26,Male,Clothing,High Price,Senior Citizen
+Mon,May,1,1500,1500.0,164,47,2023-05-15,Female,Beauty,High Price,Adult
+Sat,April,1,1000,1000.0,275,43,2023-04-08,Male,Clothing,High Price,Adult
+Thu,November,1,60,60.0,289,53,2023-11-30,Male,Electronics,Low Price,Senior Citizen
+Tue,October,1,25,25.0,318,61,2023-10-24,Male,Clothing,Low Price,Senior Citizen
+Sun,November,1,100,100.0,599,28,2023-11-19,Female,Beauty,Low Price,Youth
+Sat,August,1,150,150.0,695,22,2023-08-12,Female,Electronics,Low Price,Youth
+Thu,December,1,300,300.0,865,42,2023-12-21,Female,Clothing,Medium Price,Adult
+Mon,October,1,120,120.0,876,43,2023-10-09,Male,Clothing,Low Price,Adult
+Sun,October,1,100,100.0,998,23,2023-10-29,Female,Beauty,Low Price,Youth
+Wed,January,1,50,50.0,134,49,2023-01-25,Male,Electronics,Low Price,Adult
+Wed,May,1,2000,2000.0,155,31,2023-05-17,Male,Electronics,High Price,Young Adult
+Thu,February,1,25,25.0,223,64,2023-02-02,Female,Clothing,Low Price,Senior Citizen
+Sat,February,1,1000,1000.0,237,50,2023-02-04,Female,Beauty,High Price,Adult
+Mon,March,1,100,100.0,278,37,2023-03-13,Female,Clothing,Low Price,Young Adult
+Tue,November,1,900,900.0,417,43,2023-11-21,Male,Electronics,Medium Price,Adult
+Mon,May,1,1500,1500.0,452,48,2023-05-08,Female,Clothing,High Price,Adult
+Sun,April,1,90,90.0,613,52,2023-04-23,Female,Clothing,Low Price,Senior Citizen
+Sat,September,1,100,100.0,616,41,2023-09-23,Male,Clothing,Low Price,Adult
+Mon,June,1,30,30.0,874,60,2023-06-26,Male,Beauty,Low Price,Senior Citizen
+Wed,October,1,500,500.0,914,59,2023-10-11,Female,Electronics,High Price,Senior Citizen
+Sun,December,1,50,50.0,916,32,2023-12-24,Female,Electronics,Low Price,Young Adult
+Sat,March,1,1500,1500.0,942,51,2023-03-18,Male,Clothing,High Price,Senior Citizen
+Tue,August,1,60,60.0,960,59,2023-08-08,Male,Clothing,Low Price,Senior Citizen
+Wed,November,1,300,300.0,24,49,2023-11-29,Female,Clothing,Medium Price,Adult
+Fri,February,1,900,900.0,42,22,2023-02-17,Male,Clothing,Medium Price,Youth
+Thu,July,1,200,200.0,75,61,2023-07-06,Male,Beauty,Low Price,Senior Citizen
+Mon,May,1,60,60.0,123,40,2023-05-15,Female,Electronics,Low Price,Young Adult
+Sun,May,1,500,500.0,353,31,2023-05-14,Male,Electronics,High Price,Young Adult
+Sun,December,1,1200,1200.0,361,34,2023-12-10,Female,Electronics,Medium Price,Young Adult
+Sun,October,1,25,25.0,558,41,2023-10-08,Female,Clothing,Low Price,Adult
+Tue,March,1,100,100.0,575,60,2023-03-28,Male,Clothing,Low Price,Senior Citizen
+Mon,September,1,2000,2000.0,832,47,2023-09-11,Male,Beauty,High Price,Adult
+Fri,November,1,60,60.0,95,32,2023-11-24,Female,Clothing,Low Price,Young Adult
+Thu,May,1,90,90.0,190,60,2023-05-04,Female,Beauty,Low Price,Senior Citizen
+Fri,February,1,100,100.0,192,62,2023-02-10,Male,Beauty,Low Price,Senior Citizen
+Tue,May,1,1000,1000.0,203,56,2023-05-16,Male,Clothing,High Price,Senior Citizen
+Mon,October,1,100,100.0,276,21,2023-10-02,Female,Beauty,Low Price,Youth
+Sun,August,1,500,500.0,384,55,2023-08-13,Male,Clothing,High Price,Senior Citizen
+Mon,May,1,120,120.0,425,55,2023-05-15,Female,Electronics,Low Price,Senior Citizen
+Sun,January,1,300,300.0,445,53,2023-01-22,Female,Electronics,Medium Price,Senior Citizen
+Sun,May,1,120,120.0,640,51,2023-05-07,Female,Electronics,Low Price,Senior Citizen
+Thu,April,1,50,50.0,665,57,2023-04-20,Male,Clothing,Low Price,Senior Citizen
+Tue,October,1,90,90.0,776,35,2023-10-31,Male,Clothing,Low Price,Young Adult
+Sat,December,1,500,500.0,781,35,2023-12-23,Male,Beauty,High Price,Young Adult
+Fri,May,1,300,300.0,881,22,2023-05-19,Male,Electronics,Medium Price,Youth
+Sun,October,1,50,50.0,896,30,2023-10-29,Female,Electronics,Low Price,Youth
+Wed,May,1,50,50.0,81,40,2023-05-17,Male,Electronics,Low Price,Young Adult
+Sun,April,1,100,100.0,98,55,2023-04-23,Female,Beauty,Low Price,Senior Citizen
+Fri,June,1,30,30.0,100,41,2023-06-16,Male,Electronics,Low Price,Adult
+Wed,October,1,2000,2000.0,109,34,2023-10-18,Female,Electronics,High Price,Young Adult
+Thu,September,1,25,25.0,204,39,2023-09-28,Male,Beauty,Low Price,Young Adult
+Mon,July,1,1500,1500.0,213,27,2023-07-24,Male,Beauty,High Price,Youth
+Wed,January,1,100,100.0,225,57,2023-01-11,Female,Beauty,Low Price,Senior Citizen
+Thu,March,1,900,900.0,248,26,2023-03-09,Male,Clothing,Medium Price,Youth
+Sat,October,1,1200,1200.0,437,35,2023-10-07,Female,Electronics,Medium Price,Young Adult
+Thu,June,1,500,500.0,539,25,2023-06-08,Male,Beauty,High Price,Youth
+Thu,October,1,300,300.0,555,25,2023-10-19,Male,Beauty,Medium Price,Youth
+Mon,May,1,25,25.0,585,24,2023-05-01,Female,Clothing,Low Price,Youth
+Mon,May,1,100,100.0,642,54,2023-05-22,Female,Clothing,Low Price,Senior Citizen
+Mon,May,1,100,100.0,652,34,2023-05-01,Female,Beauty,Low Price,Young Adult
+Fri,May,1,100,100.0,758,64,2023-05-12,Male,Clothing,Low Price,Senior Citizen
+Wed,December,1,50,50.0,771,24,2023-12-13,Male,Electronics,Low Price,Youth
+Fri,September,1,50,50.0,851,32,2023-09-08,Male,Electronics,Low Price,Young Adult
+Sat,July,1,75,75.0,980,31,2023-07-29,Female,Electronics,Low Price,Young Adult
+Mon,October,1,75,75.0,51,27,2023-10-02,Male,Beauty,Low Price,Youth
+Thu,February,1,1200,1200.0,142,35,2023-02-02,Male,Electronics,Medium Price,Young Adult
+Wed,October,1,75,75.0,149,22,2023-10-11,Male,Clothing,Low Price,Youth
+Tue,January,1,500,500.0,238,39,2023-01-17,Female,Beauty,High Price,Young Adult
+Thu,April,1,50,50.0,246,48,2023-04-20,Female,Electronics,Low Price,Adult
+Fri,March,1,50,50.0,339,22,2023-03-03,Female,Electronics,Low Price,Youth
+Thu,August,1,25,25.0,347,42,2023-08-03,Male,Electronics,Low Price,Adult
+Wed,October,1,200,200.0,546,36,2023-10-11,Female,Electronics,Low Price,Young Adult
+Sat,May,1,2000,2000.0,561,64,2023-05-27,Female,Clothing,High Price,Senior Citizen
+Sun,October,1,1000,1000.0,600,59,2023-10-22,Female,Beauty,High Price,Senior Citizen
+Fri,March,1,150,150.0,623,34,2023-03-10,Male,Clothing,Low Price,Young Adult
+Mon,February,1,75,75.0,848,63,2023-02-13,Female,Clothing,Low Price,Senior Citizen
+Tue,May,1,500,500.0,883,40,2023-05-09,Male,Electronics,High Price,Young Adult
+Sun,October,1,2000,2000.0,89,55,2023-10-01,Female,Electronics,High Price,Senior Citizen
+Fri,August,1,120,120.0,92,51,2023-08-25,Female,Electronics,Low Price,Senior Citizen
+Sun,December,1,60,60.0,214,20,2023-12-10,Male,Beauty,Low Price,Youth
+Mon,August,1,900,900.0,430,43,2023-08-07,Female,Electronics,Medium Price,Adult
+Sun,April,1,25,25.0,486,35,2023-04-09,Female,Electronics,Low Price,Young Adult
+Sun,May,1,60,60.0,501,39,2023-05-14,Male,Electronics,Low Price,Young Adult
+Fri,May,1,50,50.0,606,22,2023-05-05,Male,Electronics,Low Price,Youth
+Sat,January,1,75,75.0,797,40,2023-01-07,Male,Clothing,Low Price,Young Adult
+Mon,September,1,100,100.0,809,62,2023-09-25,Female,Beauty,Low Price,Senior Citizen
+Sat,May,1,200,200.0,820,49,2023-05-06,Male,Electronics,Low Price,Adult
+Fri,May,1,50,50.0,866,24,2023-05-05,Male,Electronics,Low Price,Youth
+Wed,April,1,1200,1200.0,928,35,2023-04-05,Female,Clothing,Medium Price,Young Adult
+Sat,July,1,1500,1500.0,78,47,2023-07-01,Female,Clothing,High Price,Adult
+Tue,April,1,300,300.0,79,34,2023-04-18,Male,Beauty,Medium Price,Young Adult
+Wed,September,1,50,50.0,113,41,2023-09-13,Female,Electronics,Low Price,Adult
+Sun,April,1,600,600.0,129,21,2023-04-23,Female,Beauty,Medium Price,Youth
+Mon,August,1,200,200.0,146,38,2023-08-28,Male,Clothing,Low Price,Young Adult
+Fri,June,1,50,50.0,170,25,2023-06-02,Female,Clothing,Low Price,Youth
+Tue,May,1,2000,2000.0,281,29,2023-05-23,Female,Beauty,High Price,Youth
+Thu,April,1,75,75.0,374,59,2023-04-20,Female,Beauty,Low Price,Senior Citizen
+Sat,June,1,200,200.0,510,39,2023-06-10,Female,Beauty,Low Price,Young Adult
+Sun,August,1,300,300.0,568,51,2023-08-27,Female,Electronics,Medium Price,Senior Citizen
+Fri,September,1,600,600.0,594,19,2023-09-01,Female,Electronics,Medium Price,Youth
+Sat,December,1,100,100.0,615,61,2023-12-23,Female,Clothing,Low Price,Senior Citizen
+Sat,May,1,50,50.0,694,39,2023-05-20,Female,Electronics,Low Price,Young Adult
+Sat,January,1,900,900.0,708,43,2023-01-14,Female,Beauty,Medium Price,Adult
+Mon,October,1,1500,1500.0,711,26,2023-10-16,Male,Electronics,High Price,Youth
+Mon,March,1,150,150.0,748,25,2023-03-20,Male,Clothing,Low Price,Youth
+Thu,June,1,100,100.0,819,35,2023-06-15,Female,Beauty,Low Price,Young Adult
+Sun,June,1,100,100.0,887,59,2023-06-11,Male,Clothing,Low Price,Senior Citizen
+Tue,November,1,900,900.0,950,36,2023-11-07,Male,Clothing,Medium Price,Young Adult
+Fri,July,1,2000,2000.0,93,35,2023-07-14,Female,Beauty,High Price,Young Adult
+Thu,June,1,120,120.0,182,62,2023-06-15,Male,Beauty,Low Price,Senior Citizen
+Fri,October,1,50,50.0,249,20,2023-10-20,Male,Clothing,Low Price,Youth
+Sun,May,1,200,200.0,341,31,2023-05-07,Male,Clothing,Low Price,Young Adult
+Tue,October,1,600,600.0,373,25,2023-10-03,Female,Beauty,Medium Price,Youth
+Sat,July,1,1500,1500.0,474,26,2023-07-15,Female,Clothing,High Price,Youth
+Sat,November,1,50,50.0,493,41,2023-11-25,Male,Beauty,Low Price,Adult
+Thu,June,1,50,50.0,545,27,2023-06-01,Male,Clothing,Low Price,Youth
+Fri,July,1,900,900.0,551,45,2023-07-14,Male,Electronics,Medium Price,Adult
+Wed,June,1,900,900.0,567,25,2023-06-14,Female,Clothing,Medium Price,Youth
+Tue,September,1,60,60.0,573,49,2023-09-19,Male,Beauty,Low Price,Adult
+Mon,July,1,1000,1000.0,605,37,2023-07-24,Male,Electronics,High Price,Young Adult
+Mon,August,1,1200,1200.0,648,53,2023-08-14,Male,Beauty,Medium Price,Senior Citizen
+Fri,July,1,60,60.0,681,43,2023-07-14,Female,Electronics,Low Price,Adult
+Sat,December,1,2000,2000.0,700,36,2023-12-09,Male,Electronics,High Price,Young Adult
+Wed,April,1,150,150.0,724,61,2023-04-19,Male,Clothing,Low Price,Senior Citizen
+Fri,August,1,50,50.0,730,36,2023-08-04,Female,Clothing,Low Price,Young Adult
+Fri,January,1,100,100.0,736,29,2023-01-27,Male,Clothing,Low Price,Youth
+Sat,January,1,2000,2000.0,742,38,2023-01-21,Female,Electronics,High Price,Young Adult
+Wed,April,1,50,50.0,836,22,2023-04-19,Female,Clothing,Low Price,Youth
+Tue,June,1,50,50.0,882,64,2023-06-06,Female,Electronics,Low Price,Senior Citizen
+Sat,October,1,50,50.0,922,41,2023-10-21,Male,Electronics,Low Price,Adult
+Sat,September,1,50,50.0,19,62,2023-09-16,Female,Clothing,Low Price,Senior Citizen
+Sun,June,1,900,900.0,110,27,2023-06-11,Male,Clothing,Medium Price,Youth
+Wed,July,1,500,500.0,128,25,2023-07-05,Male,Beauty,High Price,Youth
+Mon,September,1,600,600.0,131,21,2023-09-18,Female,Beauty,Medium Price,Youth
+Fri,September,1,900,900.0,183,43,2023-09-08,Female,Beauty,Medium Price,Adult
+Mon,February,1,30,30.0,268,28,2023-02-20,Female,Electronics,Low Price,Youth
+Mon,October,1,50,50.0,286,55,2023-10-09,Male,Electronics,Low Price,Senior Citizen
+Wed,February,1,1200,1200.0,320,28,2023-02-01,Female,Electronics,Medium Price,Youth
+Wed,July,1,100,100.0,338,54,2023-07-26,Male,Beauty,Low Price,Senior Citizen
+Mon,January,1,1500,1500.0,421,37,2023-01-02,Female,Clothing,High Price,Young Adult
+Mon,July,1,200,200.0,449,25,2023-07-03,Male,Electronics,Low Price,Youth
+Fri,December,1,1000,1000.0,453,26,2023-12-08,Female,Clothing,High Price,Youth
+Thu,April,1,60,60.0,478,58,2023-04-13,Female,Clothing,Low Price,Senior Citizen
+Wed,June,1,75,75.0,654,42,2023-06-21,Male,Clothing,Low Price,Adult
+Tue,June,1,500,500.0,655,55,2023-06-13,Female,Clothing,High Price,Senior Citizen
+Wed,January,1,90,90.0,679,18,2023-01-11,Female,Beauty,Low Price,Youth
+Fri,June,1,200,200.0,765,43,2023-06-09,Male,Clothing,Low Price,Adult
+Fri,May,1,1000,1000.0,779,56,2023-05-05,Female,Electronics,High Price,Senior Citizen
+Sat,June,1,1200,1200.0,839,20,2023-06-24,Female,Electronics,Medium Price,Youth
+Tue,August,1,100,100.0,924,55,2023-08-29,Male,Beauty,Low Price,Senior Citizen
+Sun,October,1,60,60.0,959,42,2023-10-29,Female,Electronics,Low Price,Adult
+Mon,January,1,25,25.0,979,19,2023-01-02,Female,Beauty,Low Price,Youth
+Sun,February,1,50,50.0,63,57,2023-02-05,Male,Electronics,Low Price,Senior Citizen
+Tue,January,1,25,25.0,103,59,2023-01-17,Female,Clothing,Low Price,Senior Citizen
+Mon,March,1,200,200.0,197,42,2023-03-06,Female,Clothing,Low Price,Adult
+Fri,February,1,2000,2000.0,416,53,2023-02-17,Male,Electronics,High Price,Senior Citizen
+Sat,July,1,100,100.0,455,31,2023-07-01,Male,Electronics,Low Price,Young Adult
+Mon,July,1,1500,1500.0,463,54,2023-07-31,Female,Beauty,High Price,Senior Citizen
+Thu,April,1,1200,1200.0,482,28,2023-04-27,Female,Clothing,Medium Price,Youth
+Wed,August,1,150,150.0,529,35,2023-08-09,Female,Clothing,Low Price,Young Adult
+Sat,December,1,25,25.0,544,27,2023-12-23,Female,Electronics,Low Price,Youth
+Wed,April,1,60,60.0,588,38,2023-04-26,Male,Electronics,Low Price,Young Adult
+Wed,September,1,200,200.0,696,50,2023-09-06,Female,Clothing,Low Price,Adult
+Sat,June,1,120,120.0,796,43,2023-06-24,Male,Beauty,Low Price,Adult
+Wed,December,1,50,50.0,854,29,2023-12-20,Male,Clothing,Low Price,Youth
+Fri,March,1,100,100.0,888,52,2023-03-03,Female,Electronics,Low Price,Senior Citizen
+Wed,March,1,50,50.0,973,60,2023-03-22,Male,Clothing,Low Price,Senior Citizen
+Mon,June,1,1200,1200.0,46,20,2023-06-26,Female,Electronics,Medium Price,Youth
+Tue,December,1,200,200.0,82,32,2023-12-26,Female,Beauty,Low Price,Young Adult
+Fri,November,1,900,900.0,171,52,2023-11-24,Female,Clothing,Medium Price,Senior Citizen
+Sun,September,1,50,50.0,172,32,2023-09-17,Male,Beauty,Low Price,Young Adult
+Wed,November,1,120,120.0,173,64,2023-11-08,Male,Electronics,Low Price,Senior Citizen
+Sat,September,1,900,900.0,196,32,2023-09-30,Female,Clothing,Medium Price,Young Adult
+Mon,December,1,50,50.0,258,37,2023-12-04,Female,Clothing,Low Price,Young Adult
+Tue,July,1,1000,1000.0,299,61,2023-07-25,Male,Electronics,High Price,Senior Citizen
+Tue,March,1,1200,1200.0,459,28,2023-03-21,Male,Clothing,Medium Price,Youth
+Tue,April,1,50,50.0,527,57,2023-04-11,Male,Clothing,Low Price,Senior Citizen
+Sun,February,1,120,120.0,530,18,2023-02-05,Female,Electronics,Low Price,Youth
+Fri,December,1,1000,1000.0,662,48,2023-12-22,Male,Beauty,High Price,Adult
+Sun,October,1,500,500.0,707,26,2023-10-01,Female,Clothing,High Price,Youth
+Fri,July,1,1000,1000.0,709,19,2023-07-21,Female,Electronics,High Price,Youth
+Sun,February,1,500,500.0,714,18,2023-02-12,Female,Clothing,High Price,Youth
+Tue,January,1,30,30.0,734,27,2023-01-10,Female,Clothing,Low Price,Youth
+Sat,January,1,75,75.0,768,24,2023-01-14,Female,Beauty,Low Price,Youth
+Sun,February,1,30,30.0,793,54,2023-02-05,Male,Beauty,Low Price,Senior Citizen
+Mon,March,1,900,900.0,806,35,2023-03-20,Female,Beauty,Medium Price,Young Adult
+Thu,November,1,100,100.0,810,59,2023-11-30,Male,Electronics,Low Price,Senior Citizen
+Sat,August,1,1000,1000.0,816,47,2023-08-12,Male,Beauty,High Price,Adult
+Sat,April,1,60,60.0,884,26,2023-04-29,Female,Clothing,Low Price,Youth
+Sun,December,1,150,150.0,34,51,2023-12-24,Female,Clothing,Low Price,Senior Citizen
+Mon,March,1,600,600.0,136,44,2023-03-20,Male,Electronics,Medium Price,Adult
+Wed,May,1,75,75.0,188,40,2023-05-03,Male,Clothing,Low Price,Young Adult
+Wed,October,1,200,200.0,208,34,2023-10-04,Female,Electronics,Low Price,Young Adult
+Fri,May,1,300,300.0,252,54,2023-05-05,Male,Electronics,Medium Price,Senior Citizen
+Mon,January,1,500,500.0,322,51,2023-01-30,Male,Electronics,High Price,Senior Citizen
+Thu,March,1,200,200.0,377,46,2023-03-09,Female,Clothing,Low Price,Adult
+Sun,June,1,50,50.0,556,18,2023-06-04,Female,Electronics,Low Price,Youth
+Mon,May,1,75,75.0,620,63,2023-05-08,Male,Electronics,Low Price,Senior Citizen
+Sat,June,1,1200,1200.0,726,47,2023-06-17,Male,Clothing,Medium Price,Adult
+Wed,May,1,30,30.0,749,42,2023-05-03,Male,Beauty,Low Price,Adult
+Fri,March,1,200,200.0,785,31,2023-03-03,Female,Beauty,Low Price,Young Adult
+Thu,May,1,500,500.0,818,30,2023-05-18,Male,Electronics,High Price,Youth
+Tue,January,1,1000,1000.0,986,49,2023-01-17,Female,Clothing,High Price,Adult
+Tue,December,1,150,150.0,999,36,2023-12-05,Female,Electronics,Low Price,Young Adult
+Sat,November,1,100,100.0,156,43,2023-11-25,Female,Clothing,Low Price,Adult
+Fri,February,1,300,300.0,168,53,2023-02-24,Male,Clothing,Medium Price,Senior Citizen
+Sat,April,1,50,50.0,316,48,2023-04-22,Female,Clothing,Low Price,Adult
+Wed,November,1,50,50.0,343,21,2023-11-01,Male,Electronics,Low Price,Youth
+Mon,April,1,120,120.0,477,43,2023-04-24,Male,Clothing,Low Price,Adult
+Sun,April,1,150,150.0,502,43,2023-04-02,Male,Electronics,Low Price,Adult
+Fri,January,1,50,50.0,505,24,2023-01-20,Male,Beauty,Low Price,Youth
+Sat,December,1,1500,1500.0,608,55,2023-12-02,Female,Electronics,High Price,Senior Citizen
+Sat,August,1,900,900.0,624,34,2023-08-26,Female,Beauty,Medium Price,Young Adult
+Fri,November,1,120,120.0,645,35,2023-11-17,Female,Electronics,Low Price,Young Adult
+Wed,July,1,200,200.0,686,28,2023-07-19,Female,Electronics,Low Price,Youth
+Sun,August,1,1200,1200.0,756,62,2023-08-27,Female,Electronics,Medium Price,Senior Citizen
+Sat,March,1,25,25.0,764,40,2023-03-25,Female,Clothing,Low Price,Young Adult
+Sat,August,1,100,100.0,823,56,2023-08-19,Female,Electronics,Low Price,Senior Citizen
+Fri,February,1,90,90.0,861,41,2023-02-17,Female,Clothing,Low Price,Adult
+Wed,February,1,75,75.0,977,35,2023-02-08,Female,Electronics,Low Price,Young Adult
+Mon,January,1,2000,2000.0,15,42,2023-01-16,Female,Electronics,High Price,Adult
+Wed,May,1,900,900.0,56,26,2023-05-31,Female,Clothing,Medium Price,Youth
+Sun,May,1,50,50.0,120,60,2023-05-07,Male,Beauty,Low Price,Senior Citizen
+Sun,October,1,50,50.0,226,61,2023-10-29,Female,Clothing,Low Price,Senior Citizen
+Sun,October,1,900,900.0,680,53,2023-10-22,Female,Clothing,Medium Price,Senior Citizen
+Mon,March,1,75,75.0,750,35,2023-03-06,Female,Clothing,Low Price,Young Adult
+Tue,October,1,75,75.0,767,39,2023-10-24,Male,Beauty,Low Price,Young Adult
+Sat,September,1,2000,2000.0,789,61,2023-09-30,Female,Clothing,High Price,Senior Citizen
+Tue,October,1,200,200.0,817,30,2023-10-31,Male,Beauty,Low Price,Youth
+Sat,August,1,1500,1500.0,956,30,2023-08-19,Male,Clothing,High Price,Youth
+Sat,May,1,100,100.0,5,30,2023-05-06,Male,Beauty,Low Price,Youth
+Tue,October,1,120,120.0,55,31,2023-10-10,Male,Beauty,Low Price,Young Adult
+Wed,July,1,50,50.0,59,62,2023-07-05,Male,Clothing,Low Price,Senior Citizen
+Mon,March,1,150,150.0,119,60,2023-03-13,Female,Clothing,Low Price,Senior Citizen
+Wed,April,1,50,50.0,207,42,2023-04-19,Female,Beauty,Low Price,Adult
+Fri,July,1,500,500.0,254,41,2023-07-28,Male,Electronics,High Price,Adult
+Tue,December,1,150,150.0,336,52,2023-12-12,Female,Beauty,Low Price,Senior Citizen
+Thu,March,1,100,100.0,360,42,2023-03-09,Male,Clothing,Low Price,Adult
+Sat,June,1,500,500.0,394,27,2023-06-03,Female,Clothing,High Price,Youth
+Wed,December,1,1000,1000.0,395,50,2023-12-06,Male,Electronics,High Price,Adult
+Sat,March,1,120,120.0,436,57,2023-03-18,Female,Clothing,Low Price,Senior Citizen
+Tue,October,1,1200,1200.0,441,57,2023-10-10,Male,Beauty,Medium Price,Senior Citizen
+Tue,August,1,2000,2000.0,476,27,2023-08-29,Female,Clothing,High Price,Youth
+Sun,February,1,150,150.0,490,34,2023-02-05,Male,Clothing,Low Price,Young Adult
+Thu,September,1,30,30.0,579,38,2023-09-21,Female,Electronics,Low Price,Young Adult
+Thu,November,1,300,300.0,641,40,2023-11-23,Female,Electronics,Medium Price,Young Adult
+Sun,July,1,100,100.0,661,44,2023-07-16,Female,Clothing,Low Price,Adult
+Tue,August,1,500,500.0,667,29,2023-08-01,Female,Electronics,High Price,Youth
+Thu,April,1,100,100.0,745,54,2023-04-13,Male,Beauty,Low Price,Senior Citizen
+Mon,October,1,100,100.0,754,43,2023-10-16,Female,Electronics,Low Price,Adult
+Fri,February,1,1200,1200.0,800,32,2023-02-24,Male,Clothing,Medium Price,Young Adult
+Sat,August,1,25,25.0,825,46,2023-08-26,Female,Beauty,Low Price,Adult
+Mon,April,1,50,50.0,863,30,2023-04-24,Female,Electronics,Low Price,Youth
+Tue,September,1,100,100.0,897,64,2023-09-26,Female,Electronics,Low Price,Senior Citizen
+Thu,November,1,100,100.0,951,33,2023-11-02,Male,Beauty,Low Price,Young Adult
+Mon,September,1,900,900.0,954,50,2023-09-25,Female,Electronics,Medium Price,Adult
+Mon,February,1,1000,1000.0,2,26,2023-02-27,Female,Clothing,High Price,Youth
+Mon,February,1,150,150.0,85,31,2023-02-06,Male,Clothing,Low Price,Young Adult
+Wed,November,1,90,90.0,86,19,2023-11-08,Male,Beauty,Low Price,Youth
+Sun,October,1,90,90.0,229,58,2023-10-29,Male,Beauty,Low Price,Senior Citizen
+Mon,March,1,90,90.0,294,23,2023-03-27,Female,Clothing,Low Price,Youth
+Thu,January,1,30,30.0,438,42,2023-01-19,Female,Clothing,Low Price,Adult
+Wed,May,1,1000,1000.0,470,57,2023-05-17,Female,Clothing,High Price,Senior Citizen
+Sun,September,1,150,150.0,538,18,2023-09-17,Male,Clothing,Low Price,Youth
+Mon,September,1,200,200.0,604,29,2023-09-11,Female,Electronics,Low Price,Youth
+Sat,October,1,50,50.0,627,57,2023-10-14,Male,Clothing,Low Price,Senior Citizen
+Mon,August,1,90,90.0,704,62,2023-08-28,Female,Clothing,Low Price,Senior Citizen
+Wed,October,1,2000,2000.0,735,64,2023-10-04,Female,Clothing,High Price,Senior Citizen
+Sun,May,1,25,25.0,744,40,2023-05-07,Male,Electronics,Low Price,Young Adult
+Fri,May,1,50,50.0,811,61,2023-05-19,Male,Beauty,Low Price,Senior Citizen
+Thu,October,1,300,300.0,826,46,2023-10-19,Female,Clothing,Medium Price,Adult
+Tue,April,1,60,60.0,834,56,2023-04-04,Female,Beauty,Low Price,Senior Citizen
+Thu,July,1,500,500.0,864,51,2023-07-27,Female,Electronics,High Price,Senior Citizen
+Mon,March,1,200,200.0,917,57,2023-03-06,Female,Electronics,Low Price,Senior Citizen
+Mon,November,1,25,25.0,952,57,2023-11-13,Female,Clothing,Low Price,Senior Citizen
+Wed,April,1,900,900.0,969,40,2023-04-19,Female,Clothing,Medium Price,Young Adult
+Sun,May,1,500,500.0,4,37,2023-05-21,Male,Clothing,High Price,Young Adult
+Wed,October,1,25,25.0,191,64,2023-10-18,Male,Beauty,Low Price,Senior Citizen
+Sun,January,1,600,600.0,291,60,2023-01-08,Male,Clothing,Medium Price,Senior Citizen
+Thu,December,1,500,500.0,531,31,2023-12-07,Male,Electronics,High Price,Young Adult
+Wed,December,1,90,90.0,535,47,2023-12-06,Male,Beauty,Low Price,Adult
+Sun,January,1,1200,1200.0,559,40,2023-01-01,Female,Clothing,Medium Price,Young Adult
+Mon,December,1,50,50.0,586,50,2023-12-11,Male,Electronics,Low Price,Adult
+Sat,September,1,100,100.0,632,26,2023-09-16,Female,Electronics,Low Price,Youth
+Wed,September,1,75,75.0,644,23,2023-09-06,Male,Beauty,Low Price,Youth
+Wed,July,1,1500,1500.0,676,63,2023-07-19,Male,Electronics,High Price,Senior Citizen
+Fri,August,1,50,50.0,798,61,2023-08-04,Male,Clothing,Low Price,Senior Citizen
+Wed,November,1,100,100.0,803,39,2023-11-22,Male,Clothing,Low Price,Young Adult
+Sun,December,1,50,50.0,857,60,2023-12-31,Male,Electronics,Low Price,Senior Citizen
+Mon,August,1,30,30.0,926,22,2023-08-14,Male,Electronics,Low Price,Youth
+Sat,September,1,50,50.0,935,34,2023-09-09,Female,Beauty,Low Price,Young Adult
+Mon,October,1,500,500.0,937,62,2023-10-23,Female,Beauty,High Price,Senior Citizen
+Wed,April,1,120,120.0,1000,47,2023-04-12,Male,Electronics,Low Price,Adult
+Wed,December,1,600,600.0,9,63,2023-12-13,Male,Electronics,Medium Price,Senior Citizen
+Fri,July,1,100,100.0,71,51,2023-07-14,Female,Beauty,Low Price,Senior Citizen
+Thu,September,1,300,300.0,147,23,2023-09-28,Male,Electronics,Medium Price,Youth
+Wed,October,1,60,60.0,178,40,2023-10-04,Male,Clothing,Low Price,Young Adult
+Tue,March,1,900,900.0,198,54,2023-03-07,Female,Beauty,Medium Price,Senior Citizen
+Sun,March,1,1200,1200.0,202,34,2023-03-26,Female,Clothing,Medium Price,Young Adult
+Sat,February,1,1000,1000.0,256,23,2023-02-18,Male,Clothing,High Price,Youth
+Sat,August,1,50,50.0,261,21,2023-08-05,Male,Clothing,Low Price,Youth
+Sat,May,1,50,50.0,307,26,2023-05-27,Female,Electronics,Low Price,Youth
+Wed,November,1,900,900.0,334,31,2023-11-01,Male,Electronics,Medium Price,Young Adult
+Mon,December,1,50,50.0,525,47,2023-12-18,Female,Beauty,Low Price,Adult
+Tue,March,1,2000,2000.0,547,63,2023-03-07,Male,Clothing,High Price,Senior Citizen
+Tue,August,1,500,500.0,570,49,2023-08-15,Male,Clothing,High Price,Adult
+Mon,December,1,150,150.0,576,33,2023-12-04,Female,Beauty,Low Price,Young Adult
+Thu,August,1,300,300.0,687,53,2023-08-03,Female,Electronics,Medium Price,Senior Citizen
+Sat,April,1,100,100.0,17,27,2023-04-22,Female,Clothing,Low Price,Youth
+Sun,October,1,100,100.0,22,18,2023-10-15,Male,Clothing,Low Price,Youth
+Sat,October,1,1000,1000.0,26,28,2023-10-07,Female,Electronics,High Price,Youth
+Tue,February,1,300,300.0,70,43,2023-02-21,Female,Clothing,Medium Price,Adult
+Thu,February,1,900,900.0,133,20,2023-02-16,Male,Electronics,Medium Price,Youth
+Thu,March,1,200,200.0,138,49,2023-03-23,Male,Clothing,Low Price,Adult
+Tue,May,1,90,90.0,293,50,2023-05-02,Male,Electronics,Low Price,Adult
+Fri,September,1,75,75.0,326,18,2023-09-15,Female,Clothing,Low Price,Youth
+Sun,July,1,100,100.0,381,44,2023-07-09,Female,Clothing,Low Price,Adult
+Thu,July,1,2000,2000.0,447,22,2023-07-06,Male,Beauty,High Price,Youth
+Sat,December,1,30,30.0,566,64,2023-12-02,Female,Clothing,Low Price,Senior Citizen
+Fri,March,1,75,75.0,607,54,2023-03-17,Male,Clothing,Low Price,Senior Citizen
+Sat,December,1,900,900.0,678,60,2023-12-23,Female,Electronics,Medium Price,Senior Citizen
+Tue,May,1,2000,2000.0,970,59,2023-05-16,Male,Electronics,High Price,Senior Citizen
+Sun,April,1,30,30.0,995,41,2023-04-30,Female,Clothing,Low Price,Adult
+Tue,May,1,900,900.0,48,54,2023-05-16,Male,Electronics,Medium Price,Senior Citizen
+Sat,March,1,100,100.0,76,22,2023-03-25,Female,Electronics,Low Price,Youth
+Fri,June,1,1500,1500.0,212,21,2023-06-09,Male,Clothing,High Price,Youth
+Tue,July,1,100,100.0,216,62,2023-07-11,Male,Electronics,Low Price,Senior Citizen
+Wed,April,1,120,120.0,222,51,2023-04-26,Male,Clothing,Low Price,Senior Citizen
+Sun,April,1,25,25.0,230,54,2023-04-23,Male,Beauty,Low Price,Senior Citizen
+Sat,January,1,900,900.0,264,47,2023-01-28,Male,Clothing,Medium Price,Adult
+Fri,June,1,120,120.0,271,62,2023-06-23,Female,Beauty,Low Price,Senior Citizen
+Sun,April,1,1000,1000.0,274,23,2023-04-09,Female,Clothing,High Price,Youth
+Tue,May,1,30,30.0,305,18,2023-05-16,Female,Beauty,Low Price,Youth
+Fri,March,1,150,150.0,426,23,2023-03-24,Male,Electronics,Low Price,Youth
+Mon,May,1,75,75.0,469,18,2023-05-08,Male,Beauty,Low Price,Youth
+Sun,November,1,150,150.0,554,46,2023-11-12,Female,Beauty,Low Price,Adult
+Sun,August,1,150,150.0,671,62,2023-08-27,Male,Electronics,Low Price,Senior Citizen
+Fri,August,1,60,60.0,675,45,2023-08-04,Female,Clothing,Low Price,Adult
+Wed,May,1,50,50.0,840,62,2023-05-24,Male,Clothing,Low Price,Senior Citizen
+Sun,August,1,2000,2000.0,875,51,2023-08-06,Female,Electronics,High Price,Senior Citizen
+Sat,August,1,1500,1500.0,13,22,2023-08-05,Male,Electronics,High Price,Youth
+Tue,July,1,500,500.0,105,22,2023-07-25,Female,Electronics,High Price,Youth
+Sun,October,1,200,200.0,121,28,2023-10-15,Female,Electronics,Low Price,Youth
+Sat,June,1,2000,2000.0,157,62,2023-06-24,Male,Electronics,High Price,Senior Citizen
+Thu,September,1,1200,1200.0,165,60,2023-09-14,Female,Clothing,Medium Price,Senior Citizen
+Tue,November,1,25,25.0,512,57,2023-11-07,Female,Beauty,Low Price,Senior Citizen
+Fri,March,1,900,900.0,590,36,2023-03-17,Male,Clothing,Medium Price,Young Adult
+Fri,February,1,1500,1500.0,611,51,2023-02-24,Male,Beauty,High Price,Senior Citizen
+Mon,June,1,50,50.0,629,62,2023-06-12,Male,Electronics,Low Price,Senior Citizen
+Sat,September,1,1200,1200.0,682,46,2023-09-02,Male,Beauty,Medium Price,Adult
+Tue,October,1,100,100.0,688,56,2023-10-03,Male,Clothing,Low Price,Senior Citizen
+Wed,November,1,100,100.0,706,51,2023-11-15,Male,Electronics,Low Price,Senior Citizen
+Fri,March,1,120,120.0,885,52,2023-03-03,Female,Clothing,Low Price,Senior Citizen
+Sat,June,1,2000,2000.0,927,43,2023-06-24,Male,Electronics,High Price,Adult
+Mon,February,1,1000,1000.0,966,60,2023-02-20,Male,Electronics,High Price,Senior Citizen
+Mon,August,1,90,90.0,73,29,2023-08-21,Male,Electronics,Low Price,Youth
+Mon,July,1,50,50.0,127,33,2023-07-24,Female,Clothing,Low Price,Young Adult
+Mon,February,1,25,25.0,232,43,2023-02-06,Female,Beauty,Low Price,Adult
+Fri,November,1,25,25.0,388,50,2023-11-10,Male,Electronics,Low Price,Adult
+Thu,November,1,1500,1500.0,533,19,2023-11-16,Male,Electronics,High Price,Youth
+Fri,June,1,50,50.0,685,57,2023-06-02,Male,Electronics,Low Price,Senior Citizen
+Wed,January,1,90,90.0,746,33,2023-01-11,Female,Clothing,Low Price,Young Adult
+Thu,September,1,200,200.0,835,37,2023-09-07,Male,Clothing,Low Price,Young Adult
+Sun,December,1,1200,1200.0,99,50,2023-12-17,Female,Electronics,Medium Price,Adult
+Mon,August,1,60,60.0,162,39,2023-08-21,Male,Clothing,Low Price,Young Adult
+Sun,June,1,30,30.0,387,44,2023-06-04,Male,Beauty,Low Price,Adult
+Tue,April,1,30,30.0,483,55,2023-04-25,Male,Clothing,Low Price,Senior Citizen
+Sun,April,1,90,90.0,691,51,2023-04-23,Female,Clothing,Low Price,Senior Citizen
+Mon,August,1,300,300.0,725,61,2023-08-21,Male,Electronics,Medium Price,Senior Citizen
+Sat,February,1,1000,1000.0,732,61,2023-02-11,Male,Electronics,High Price,Senior Citizen
+Sun,October,1,300,300.0,909,26,2023-10-01,Male,Electronics,Medium Price,Youth
+Sat,January,1,90,90.0,913,29,2023-01-28,Male,Electronics,Low Price,Youth
+Mon,February,1,25,25.0,945,30,2023-02-13,Male,Beauty,Low Price,Youth
+Mon,August,1,60,60.0,992,57,2023-08-21,Female,Electronics,Low Price,Senior Citizen
+Mon,July,1,30,30.0,45,55,2023-07-03,Female,Electronics,Low Price,Senior Citizen
+Mon,November,1,1500,1500.0,47,40,2023-11-06,Female,Beauty,High Price,Young Adult
+Wed,June,1,100,100.0,187,64,2023-06-07,Female,Clothing,Low Price,Senior Citizen
+Wed,November,1,1500,1500.0,215,58,2023-11-29,Male,Clothing,High Price,Senior Citizen
+Thu,January,1,120,120.0,288,28,2023-01-26,Male,Clothing,Low Price,Youth
+Fri,September,1,150,150.0,327,57,2023-09-29,Male,Electronics,Low Price,Senior Citizen
+Wed,December,1,900,900.0,435,30,2023-12-20,Female,Beauty,Medium Price,Youth
+Mon,December,1,30,30.0,485,24,2023-12-04,Male,Electronics,Low Price,Youth
+Mon,June,1,100,100.0,498,50,2023-06-19,Female,Clothing,Low Price,Adult
+Wed,March,1,100,100.0,500,60,2023-03-01,Female,Beauty,Low Price,Senior Citizen
+Mon,March,1,1200,1200.0,663,23,2023-03-20,Male,Clothing,Medium Price,Youth
+Fri,July,1,90,90.0,829,61,2023-07-14,Male,Beauty,Low Price,Senior Citizen
+Sat,July,1,90,90.0,837,18,2023-07-01,Male,Beauty,Low Price,Youth
+Wed,April,1,120,120.0,23,35,2023-04-12,Female,Clothing,Low Price,Young Adult
+Tue,May,1,2000,2000.0,72,20,2023-05-23,Female,Electronics,High Price,Youth
+Fri,August,1,100,100.0,160,43,2023-08-11,Female,Clothing,Low Price,Adult
+Fri,September,1,300,300.0,179,31,2023-09-29,Male,Electronics,Medium Price,Young Adult
+Wed,October,1,100,100.0,227,36,2023-10-11,Male,Electronics,Low Price,Young Adult
+Fri,April,1,60,60.0,228,59,2023-04-28,Female,Electronics,Low Price,Senior Citizen
+Thu,August,1,200,200.0,251,57,2023-08-31,Female,Beauty,Low Price,Senior Citizen
+Mon,February,1,100,100.0,287,54,2023-02-20,Male,Clothing,Low Price,Senior Citizen
+Wed,September,1,1200,1200.0,296,22,2023-09-06,Female,Clothing,Medium Price,Youth
+Wed,August,1,1200,1200.0,368,56,2023-08-23,Female,Clothing,Medium Price,Senior Citizen
+Wed,June,1,300,300.0,378,50,2023-06-28,Male,Beauty,Medium Price,Adult
+Sat,August,1,120,120.0,521,47,2023-08-12,Female,Clothing,Low Price,Adult
+Thu,December,1,900,900.0,550,40,2023-12-07,Male,Clothing,Medium Price,Young Adult
+Tue,August,1,1200,1200.0,597,22,2023-08-22,Male,Beauty,Medium Price,Youth
+Sat,August,1,500,500.0,638,46,2023-08-19,Male,Electronics,High Price,Adult
+Wed,May,1,90,90.0,646,38,2023-05-03,Male,Clothing,Low Price,Young Adult
+Sun,March,1,100,100.0,703,34,2023-03-26,Male,Electronics,Low Price,Young Adult
+Sat,April,1,75,75.0,755,58,2023-04-22,Female,Clothing,Low Price,Senior Citizen
+Fri,April,1,50,50.0,893,49,2023-04-21,Male,Electronics,Low Price,Adult
+Thu,April,1,200,200.0,903,51,2023-04-27,Female,Beauty,Low Price,Senior Citizen
+Tue,January,1,200,200.0,184,31,2023-01-10,Male,Electronics,Low Price,Young Adult
+Fri,September,1,90,90.0,218,64,2023-09-22,Male,Beauty,Low Price,Senior Citizen
+Wed,February,1,200,200.0,284,43,2023-02-08,Male,Clothing,Low Price,Adult
+Thu,October,1,25,25.0,310,28,2023-10-12,Female,Beauty,Low Price,Youth
+Thu,September,1,120,120.0,312,41,2023-09-07,Male,Clothing,Low Price,Adult
+Mon,January,1,100,100.0,329,46,2023-01-30,Female,Electronics,Low Price,Adult
+Sat,December,1,500,500.0,355,55,2023-12-09,Female,Electronics,High Price,Senior Citizen
+Mon,July,1,60,60.0,495,24,2023-07-24,Male,Beauty,Low Price,Youth
+Tue,September,1,100,100.0,513,24,2023-09-19,Male,Electronics,Low Price,Youth
+Sat,June,1,1000,1000.0,534,45,2023-06-10,Male,Clothing,High Price,Adult
+Mon,February,1,2000,2000.0,577,21,2023-02-13,Male,Beauty,High Price,Youth
+Sun,October,1,2000,2000.0,634,60,2023-10-08,Male,Electronics,High Price,Senior Citizen
+Wed,July,1,300,300.0,698,64,2023-07-19,Female,Electronics,Medium Price,Senior Citizen
+Mon,February,1,600,600.0,158,44,2023-02-27,Female,Electronics,Medium Price,Adult
+Mon,October,1,50,50.0,250,48,2023-10-23,Male,Electronics,Low Price,Adult
+Thu,January,1,900,900.0,323,29,2023-01-26,Female,Beauty,Medium Price,Youth
+Sat,September,1,2000,2000.0,412,19,2023-09-16,Female,Electronics,High Price,Youth
+Tue,May,1,100,100.0,414,48,2023-05-09,Male,Beauty,Low Price,Adult
+Fri,January,1,1200,1200.0,484,19,2023-01-13,Female,Clothing,Medium Price,Youth
+Sat,February,1,1500,1500.0,506,34,2023-02-25,Male,Beauty,High Price,Young Adult
+Mon,July,1,900,900.0,515,49,2023-07-17,Female,Clothing,Medium Price,Adult
+Sat,August,1,30,30.0,617,34,2023-08-26,Male,Electronics,Low Price,Young Adult
+Fri,September,1,2000,2000.0,626,26,2023-09-29,Female,Clothing,High Price,Youth
+Sat,October,1,100,100.0,689,57,2023-10-07,Male,Electronics,Low Price,Senior Citizen
+Sun,November,1,100,100.0,715,42,2023-11-26,Female,Beauty,Low Price,Adult
+Sat,June,1,200,200.0,723,54,2023-06-17,Female,Beauty,Low Price,Senior Citizen
+Fri,January,1,75,75.0,929,23,2023-01-27,Female,Beauty,Low Price,Youth
+Tue,July,1,500,500.0,934,30,2023-07-25,Male,Beauty,High Price,Youth
+Wed,August,1,50,50.0,949,41,2023-08-02,Female,Electronics,Low Price,Adult
+Sun,October,1,900,900.0,30,39,2023-10-29,Female,Beauty,Medium Price,Young Adult
+Tue,May,1,1200,1200.0,31,44,2023-05-23,Male,Electronics,Medium Price,Adult
+Wed,January,1,90,90.0,32,30,2023-01-04,Male,Beauty,Low Price,Youth
+Tue,November,1,90,90.0,84,38,2023-11-28,Female,Electronics,Low Price,Young Adult
+Sat,March,1,500,500.0,91,55,2023-03-25,Female,Electronics,High Price,Senior Citizen
+Thu,August,1,2000,2000.0,253,53,2023-08-31,Female,Clothing,High Price,Senior Citizen
+Wed,July,1,300,300.0,270,43,2023-07-26,Male,Electronics,Medium Price,Adult
+Sun,December,1,600,600.0,348,35,2023-12-03,Female,Electronics,Medium Price,Young Adult
+Fri,May,1,1000,1000.0,382,53,2023-05-26,Female,Clothing,High Price,Senior Citizen
+Wed,June,1,50,50.0,446,21,2023-06-07,Male,Electronics,Low Price,Youth
+Wed,February,1,25,25.0,454,46,2023-02-22,Female,Beauty,Low Price,Adult
+Wed,March,1,300,300.0,514,18,2023-03-01,Female,Electronics,Medium Price,Youth
+Wed,August,1,60,60.0,563,20,2023-08-09,Male,Clothing,Low Price,Youth
+Fri,June,1,120,120.0,769,31,2023-06-09,Female,Electronics,Low Price,Young Adult
+Sun,August,1,75,75.0,815,51,2023-08-27,Female,Clothing,Low Price,Senior Citizen
+Fri,September,1,50,50.0,846,42,2023-09-22,Male,Beauty,Low Price,Adult
+Sat,July,1,120,120.0,870,46,2023-07-08,Female,Electronics,Low Price,Adult
+Thu,May,1,600,600.0,899,26,2023-05-25,Male,Clothing,Medium Price,Youth
+Mon,July,1,50,50.0,143,45,2023-07-17,Female,Clothing,Low Price,Adult
+Wed,April,1,300,300.0,174,39,2023-04-12,Female,Beauty,Medium Price,Young Adult
+Mon,January,1,2000,2000.0,420,22,2023-01-23,Female,Clothing,High Price,Youth
+Mon,July,1,2000,2000.0,487,44,2023-07-24,Male,Clothing,High Price,Adult
+Thu,August,1,50,50.0,574,63,2023-08-31,Female,Electronics,Low Price,Senior Citizen
+Fri,June,1,1000,1000.0,684,28,2023-06-30,Female,Clothing,High Price,Youth
+Thu,November,1,300,300.0,741,48,2023-11-30,Male,Clothing,Medium Price,Adult
+Fri,December,1,1500,1500.0,805,30,2023-12-29,Female,Beauty,High Price,Youth
+Mon,January,1,200,200.0,860,63,2023-01-09,Male,Clothing,Low Price,Senior Citizen
+Tue,May,1,90,90.0,915,26,2023-05-30,Female,Beauty,Low Price,Youth
+Tue,February,1,100,100.0,932,45,2023-02-28,Female,Beauty,Low Price,Adult
+Thu,May,1,1000,1000.0,990,58,2023-05-25,Female,Beauty,High Price,Senior Citizen
+Wed,February,1,50,50.0,41,34,2023-02-22,Male,Clothing,Low Price,Young Adult
+Sun,April,1,75,75.0,69,56,2023-04-30,Female,Beauty,Low Price,Senior Citizen
+Mon,January,1,1500,1500.0,211,42,2024-01-01,Male,Beauty,High Price,Adult
+Wed,October,1,600,600.0,290,30,2023-10-04,Female,Beauty,Medium Price,Youth
+Fri,July,1,600,600.0,302,57,2023-07-14,Male,Beauty,Medium Price,Senior Citizen
+Tue,June,1,90,90.0,422,28,2023-06-20,Female,Clothing,Low Price,Youth
+Tue,May,1,900,900.0,491,60,2023-05-23,Female,Electronics,Medium Price,Senior Citizen
+Mon,June,1,900,900.0,509,37,2023-06-26,Female,Electronics,Medium Price,Young Adult
+Sat,April,1,100,100.0,517,47,2023-04-08,Female,Clothing,Low Price,Adult
+Sun,December,1,100,100.0,526,33,2023-12-10,Male,Clothing,Low Price,Young Adult
+Thu,April,1,2000,2000.0,572,31,2023-04-20,Male,Clothing,High Price,Young Adult
+Tue,February,1,300,300.0,821,49,2023-02-14,Male,Electronics,Medium Price,Adult
+Sat,September,1,100,100.0,858,23,2023-09-09,Male,Electronics,Low Price,Youth
+Mon,April,1,30,30.0,901,31,2023-04-10,Male,Electronics,Low Price,Young Adult
+Mon,June,1,50,50.0,944,44,2023-06-05,Male,Clothing,Low Price,Adult
+Tue,June,1,200,200.0,961,53,2023-06-06,Male,Beauty,Low Price,Senior Citizen
+Sun,September,1,200,200.0,132,42,2023-09-10,Male,Electronics,Low Price,Adult
+Fri,March,1,500,500.0,220,64,2023-03-03,Male,Beauty,High Price,Senior Citizen
+Sat,July,1,60,60.0,260,28,2023-07-01,Male,Beauty,Low Price,Youth
+Thu,April,1,1200,1200.0,298,27,2023-04-20,Male,Beauty,Medium Price,Youth
+Wed,October,1,1000,1000.0,393,22,2023-10-11,Female,Beauty,High Price,Youth
+Sat,August,1,1000,1000.0,418,60,2023-08-05,Female,Electronics,High Price,Senior Citizen
+Tue,March,1,90,90.0,444,61,2023-03-07,Female,Clothing,Low Price,Senior Citizen
+Wed,October,1,2000,2000.0,503,45,2023-10-25,Male,Beauty,High Price,Adult
+Tue,November,1,60,60.0,581,48,2023-11-21,Female,Beauty,Low Price,Adult
+Mon,January,1,30,30.0,650,55,2024-01-01,Male,Electronics,Low Price,Senior Citizen
+Sat,March,1,500,500.0,717,57,2023-03-11,Male,Clothing,High Price,Senior Citizen
+Sun,April,1,900,900.0,886,37,2023-04-09,Male,Electronics,Medium Price,Young Adult
+Mon,May,1,2000,2000.0,946,62,2023-05-08,Male,Electronics,High Price,Senior Citizen
+Fri,June,1,50,50.0,958,62,2023-06-02,Male,Electronics,Low Price,Senior Citizen
+Mon,March,1,50,50.0,7,46,2023-03-13,Male,Clothing,Low Price,Adult
+Fri,February,1,300,300.0,68,25,2023-02-10,Male,Electronics,Medium Price,Youth
+Wed,March,1,500,500.0,88,56,2023-03-29,Male,Clothing,High Price,Senior Citizen
+Fri,April,1,50,50.0,102,47,2023-04-28,Female,Beauty,Low Price,Adult
+Sat,December,1,25,25.0,309,26,2023-12-23,Female,Beauty,Low Price,Youth
+Tue,May,1,30,30.0,376,64,2023-05-16,Female,Beauty,Low Price,Senior Citizen
+Thu,November,1,1200,1200.0,424,57,2023-11-23,Male,Beauty,Medium Price,Senior Citizen
+Tue,June,1,100,100.0,466,63,2023-06-20,Male,Electronics,Low Price,Senior Citizen
+Fri,January,1,75,75.0,475,26,2023-01-20,Male,Clothing,Low Price,Youth
+Sat,July,1,500,500.0,541,56,2023-07-29,Male,Beauty,High Price,Senior Citizen
+Tue,December,1,50,50.0,571,41,2023-12-12,Female,Electronics,Low Price,Adult
+Sun,July,1,90,90.0,603,40,2023-07-16,Female,Clothing,Low Price,Young Adult
+Sat,April,1,1000,1000.0,660,38,2023-04-29,Female,Beauty,High Price,Young Adult
+Tue,April,1,60,60.0,719,42,2023-04-04,Female,Clothing,Low Price,Adult
+Sat,February,1,900,900.0,766,38,2023-02-25,Male,Electronics,Medium Price,Young Adult
+Tue,October,1,150,150.0,813,52,2023-10-03,Male,Electronics,Low Price,Senior Citizen
+Thu,August,1,60,60.0,871,62,2023-08-31,Male,Beauty,Low Price,Senior Citizen
+Sun,April,1,50,50.0,892,20,2023-04-09,Male,Electronics,Low Price,Youth
+Fri,July,1,25,25.0,955,58,2023-07-14,Male,Clothing,Low Price,Senior Citizen
+Fri,January,1,30,30.0,3,50,2023-01-13,Male,Electronics,Low Price,Adult
+Sat,August,1,30,30.0,140,38,2023-08-05,Male,Electronics,Low Price,Young Adult
+Wed,March,1,1000,1000.0,161,64,2023-03-22,Male,Beauty,High Price,Senior Citizen
+Sun,May,1,600,600.0,221,39,2023-05-07,Male,Beauty,Medium Price,Young Adult
+Tue,January,1,1000,1000.0,235,23,2023-01-31,Female,Electronics,High Price,Youth
+Wed,September,1,90,90.0,245,47,2023-09-06,Male,Clothing,Low Price,Adult
+Fri,August,1,100,100.0,277,36,2023-08-18,Male,Clothing,Low Price,Young Adult
+Mon,May,1,500,500.0,283,18,2023-05-08,Female,Electronics,High Price,Youth
+Thu,January,1,1500,1500.0,720,56,2023-01-26,Female,Beauty,High Price,Senior Citizen
+Thu,June,1,50,50.0,737,33,2023-06-29,Female,Clothing,Low Price,Young Adult
+Sun,October,1,50,50.0,770,32,2023-10-22,Male,Clothing,Low Price,Young Adult
+Sat,December,1,1200,1200.0,828,33,2023-12-09,Female,Electronics,Medium Price,Young Adult
+Wed,May,1,1200,1200.0,862,28,2023-05-31,Male,Electronics,Medium Price,Youth
+Fri,October,1,75,75.0,948,23,2023-10-13,Female,Electronics,Low Price,Youth
+Tue,April,1,30,30.0,6,45,2023-04-25,Female,Beauty,Low Price,Adult
+Thu,July,1,100,100.0,53,34,2023-07-13,Male,Electronics,Low Price,Young Adult
+Fri,November,1,1500,1500.0,169,18,2023-11-17,Male,Beauty,High Price,Youth
+Sat,June,1,25,25.0,363,64,2023-06-03,Male,Beauty,Low Price,Senior Citizen
+Thu,September,1,100,100.0,390,39,2023-09-28,Male,Electronics,Low Price,Young Adult
+Tue,April,1,100,100.0,406,22,2023-04-18,Female,Beauty,Low Price,Youth
+Wed,December,1,1500,1500.0,580,31,2023-12-06,Female,Clothing,High Price,Young Adult
+Wed,June,1,100,100.0,583,24,2023-06-21,Female,Electronics,Low Price,Youth
+Tue,November,1,500,500.0,761,33,2023-11-07,Female,Clothing,High Price,Young Adult
+Tue,February,1,60,60.0,900,21,2023-02-21,Male,Clothing,Low Price,Youth
+Wed,December,1,100,100.0,62,18,2023-12-27,Male,Beauty,Low Price,Youth
+Tue,December,1,100,100.0,311,32,2023-12-05,Female,Beauty,Low Price,Young Adult
+Thu,October,1,1200,1200.0,340,36,2023-10-19,Female,Clothing,Medium Price,Young Adult
+Tue,October,1,75,75.0,350,25,2023-10-17,Male,Beauty,Low Price,Youth
+Thu,December,1,600,600.0,496,23,2023-12-14,Male,Clothing,Medium Price,Youth
+Sat,May,1,75,75.0,653,54,2023-05-20,Male,Clothing,Low Price,Senior Citizen
+Wed,January,1,1000,1000.0,683,38,2023-01-04,Male,Beauty,High Price,Young Adult
+Sun,December,1,300,300.0,783,56,2023-12-17,Female,Clothing,Medium Price,Senior Citizen
+Thu,November,1,90,90.0,918,42,2023-11-23,Female,Electronics,Low Price,Adult
+Sat,September,1,50,50.0,919,22,2023-09-09,Female,Beauty,Low Price,Youth
+Fri,July,1,300,300.0,43,48,2023-07-14,Female,Clothing,Medium Price,Adult
+Thu,August,1,75,75.0,50,27,2023-08-24,Female,Beauty,Low Price,Youth
+Thu,April,1,30,30.0,66,45,2023-04-27,Female,Electronics,Low Price,Adult
+Mon,January,1,150,150.0,163,64,2023-01-02,Female,Clothing,Low Price,Senior Citizen
+Tue,May,1,900,900.0,243,47,2023-05-23,Female,Electronics,Medium Price,Adult
+Wed,May,1,75,75.0,357,40,2023-05-03,Female,Electronics,Low Price,Young Adult
+Sun,June,1,900,900.0,407,46,2023-06-25,Female,Electronics,Medium Price,Adult
+Sat,June,1,50,50.0,542,20,2023-06-17,Female,Beauty,Low Price,Youth
+Tue,January,1,600,600.0,610,26,2023-01-03,Female,Beauty,Medium Price,Youth
+Thu,August,1,900,900.0,635,63,2023-08-17,Female,Electronics,Medium Price,Senior Citizen
+Thu,November,1,90,90.0,898,42,2023-11-02,Female,Clothing,Low Price,Adult
+Fri,December,1,1200,1200.0,908,46,2023-12-29,Male,Beauty,Medium Price,Adult
+Thu,March,1,200,200.0,975,56,2023-03-30,Female,Clothing,Low Price,Senior Citizen
+Tue,December,1,90,90.0,982,46,2023-12-19,Female,Beauty,Low Price,Adult
+Tue,May,1,50,50.0,996,62,2023-05-16,Male,Clothing,Low Price,Senior Citizen
+Thu,August,1,50,50.0,27,38,2023-08-03,Female,Beauty,Low Price,Young Adult
+Thu,May,1,50,50.0,106,46,2023-05-18,Female,Clothing,Low Price,Adult
+Mon,January,1,50,50.0,189,63,2023-01-30,Male,Beauty,Low Price,Senior Citizen
+Wed,September,1,200,200.0,194,55,2023-09-06,Male,Clothing,Low Price,Senior Citizen
+Sun,March,1,120,120.0,301,30,2023-03-26,Male,Clothing,Low Price,Youth
+Fri,October,1,150,150.0,324,52,2023-10-27,Female,Electronics,Low Price,Senior Citizen
+Sun,February,1,1200,1200.0,333,54,2023-02-05,Female,Electronics,Medium Price,Senior Citizen
+Sat,July,1,50,50.0,359,50,2023-07-22,Male,Clothing,Low Price,Adult
+Thu,December,1,50,50.0,429,64,2023-12-28,Male,Electronics,Low Price,Senior Citizen
+Tue,April,1,50,50.0,450,59,2023-04-18,Female,Beauty,Low Price,Senior Citizen
+Sun,January,1,60,60.0,499,46,2023-01-15,Male,Beauty,Low Price,Adult
+Wed,July,1,600,600.0,543,49,2023-07-26,Male,Beauty,Medium Price,Adult
+Wed,April,1,1000,1000.0,589,36,2023-04-12,Female,Beauty,High Price,Young Adult
+Thu,January,1,50,50.0,618,27,2023-01-26,Female,Beauty,Low Price,Youth
+Sun,September,1,300,300.0,925,25,2023-09-03,Male,Electronics,Medium Price,Youth
+Sat,September,1,120,120.0,931,30,2023-09-02,Male,Beauty,Low Price,Youth
+Fri,November,1,150,150.0,1,34,2023-11-24,Male,Beauty,Low Price,Young Adult
+Mon,October,1,75,75.0,12,35,2023-10-30,Male,Beauty,Low Price,Young Adult
+Mon,January,1,1000,1000.0,49,54,2023-01-23,Female,Electronics,High Price,Senior Citizen
+Sun,January,1,900,900.0,180,41,2023-01-01,Male,Clothing,Medium Price,Adult
+Sat,December,1,100,100.0,244,28,2023-12-09,Male,Beauty,Low Price,Youth
+Mon,November,1,90,90.0,267,32,2023-11-27,Female,Beauty,Low Price,Young Adult
+Mon,January,1,90,90.0,317,22,2023-01-30,Male,Electronics,Low Price,Youth
+Sat,February,1,90,90.0,331,28,2023-02-11,Male,Electronics,Low Price,Youth
+Tue,October,1,2000,2000.0,342,43,2023-10-24,Female,Clothing,High Price,Adult
+Sun,February,1,25,25.0,379,47,2023-02-05,Female,Clothing,Low Price,Adult
+Sat,January,1,60,60.0,448,54,2023-01-21,Female,Beauty,Low Price,Senior Citizen
+Thu,November,1,1500,1500.0,507,37,2023-11-02,Female,Electronics,High Price,Young Adult
+Fri,August,1,600,600.0,508,58,2023-08-11,Male,Beauty,Medium Price,Senior Citizen
+Tue,November,1,900,900.0,582,35,2023-11-14,Male,Clothing,Medium Price,Young Adult
+Mon,April,1,30,30.0,601,19,2023-04-10,Male,Clothing,Low Price,Youth
+Thu,October,1,30,30.0,670,27,2023-10-05,Male,Beauty,Low Price,Youth
+Sun,April,1,300,300.0,674,38,2023-04-16,Female,Clothing,Medium Price,Young Adult
+Thu,August,1,50,50.0,751,42,2023-08-31,Female,Clothing,Low Price,Adult
+Thu,October,1,150,150.0,844,35,2023-10-12,Male,Clothing,Low Price,Young Adult
+Sun,April,1,50,50.0,18,47,2023-04-30,Female,Electronics,Low Price,Adult
+Tue,October,1,120,120.0,122,64,2023-10-03,Male,Electronics,Low Price,Senior Citizen
+Wed,May,1,200,200.0,159,26,2023-05-31,Male,Clothing,Low Price,Youth
+Mon,September,1,1000,1000.0,297,40,2023-09-04,Female,Electronics,High Price,Young Adult
+Fri,October,1,1500,1500.0,385,50,2023-10-06,Male,Electronics,High Price,Adult
+Thu,May,1,1000,1000.0,404,46,2023-05-25,Male,Electronics,High Price,Adult
+Tue,June,1,1200,1200.0,481,43,2023-06-06,Female,Electronics,Medium Price,Adult
+Mon,October,1,120,120.0,497,41,2023-10-02,Male,Clothing,Low Price,Adult
+Mon,June,1,50,50.0,560,25,2023-06-05,Female,Electronics,Low Price,Youth
+Tue,August,1,100,100.0,630,42,2023-08-15,Male,Clothing,Low Price,Adult
+Sat,February,1,25,25.0,657,40,2023-02-11,Male,Clothing,Low Price,Young Adult
+Tue,June,1,900,900.0,788,52,2023-06-27,Female,Beauty,Medium Price,Senior Citizen
+Thu,June,1,50,50.0,902,54,2023-06-01,Female,Beauty,Low Price,Senior Citizen
+Sat,January,1,30,30.0,940,20,2023-01-28,Female,Electronics,Low Price,Youth
+Thu,October,1,60,60.0,962,44,2023-10-19,Male,Clothing,Low Price,Adult
+Fri,October,1,2000,2000.0,124,33,2023-10-27,Male,Clothing,High Price,Young Adult
+Mon,December,1,1500,1500.0,199,45,2023-12-04,Male,Beauty,High Price,Adult
+Thu,April,1,200,200.0,210,37,2023-04-13,Male,Electronics,Low Price,Young Adult
+Thu,January,1,50,50.0,391,19,2023-01-05,Male,Beauty,Low Price,Youth
+Sun,October,1,1200,1200.0,431,63,2023-10-15,Male,Electronics,Medium Price,Senior Citizen
+Sun,July,1,150,150.0,467,53,2023-07-30,Female,Electronics,Low Price,Senior Citizen
+Sat,December,1,25,25.0,468,40,2023-12-09,Male,Electronics,Low Price,Young Adult
+Sun,June,1,900,900.0,488,51,2023-06-18,Female,Electronics,Medium Price,Senior Citizen
+Sat,June,1,500,500.0,537,21,2023-06-03,Female,Beauty,High Price,Youth
+Mon,August,1,120,120.0,633,39,2023-08-07,Male,Beauty,Low Price,Young Adult
+Thu,May,1,1000,1000.0,853,21,2023-05-04,Male,Beauty,High Price,Youth
+Sun,April,1,300,300.0,905,58,2023-04-02,Male,Beauty,Medium Price,Senior Citizen
+Sun,June,1,50,50.0,906,20,2023-06-04,Female,Clothing,Low Price,Youth
+Sat,January,1,75,75.0,921,51,2023-01-07,Male,Electronics,Low Price,Senior Citizen
+Wed,April,1,90,90.0,953,45,2023-04-26,Male,Beauty,Low Price,Adult
+Sun,November,1,900,900.0,20,22,2023-11-05,Male,Clothing,Medium Price,Youth
+Sun,July,1,100,100.0,77,47,2023-07-09,Female,Clothing,Low Price,Adult
+Thu,November,1,75,75.0,145,39,2023-11-02,Female,Clothing,Low Price,Young Adult
+Mon,February,1,1500,1500.0,193,35,2023-02-13,Male,Beauty,High Price,Young Adult
+Mon,August,1,60,60.0,263,23,2023-08-28,Male,Beauty,Low Price,Youth
+Sat,August,1,500,500.0,279,50,2023-08-05,Male,Clothing,High Price,Adult
+Sat,April,1,120,120.0,314,52,2023-04-08,Male,Clothing,Low Price,Senior Citizen
+Sat,April,1,200,200.0,354,49,2023-04-15,Female,Beauty,Low Price,Adult
+Fri,December,1,50,50.0,389,21,2023-12-01,Male,Clothing,Low Price,Youth
+Tue,May,1,200,200.0,411,62,2023-05-16,Male,Electronics,Low Price,Senior Citizen
+Tue,August,1,25,25.0,427,25,2023-08-15,Male,Electronics,Low Price,Youth
+Mon,February,1,200,200.0,433,29,2023-02-27,Male,Beauty,Low Price,Youth
+Tue,May,1,50,50.0,460,40,2023-05-02,Male,Beauty,Low Price,Young Adult
+Fri,December,1,300,300.0,625,31,2023-12-08,Male,Clothing,Medium Price,Young Adult
+Sun,April,1,1500,1500.0,693,41,2023-04-23,Male,Beauty,High Price,Adult
+Sun,May,1,500,500.0,721,52,2023-05-14,Female,Clothing,High Price,Senior Citizen
+Wed,November,1,25,25.0,739,36,2023-11-29,Male,Beauty,Low Price,Young Adult
+Mon,January,1,2000,2000.0,743,34,2023-01-16,Female,Beauty,High Price,Young Adult
+Tue,September,1,500,500.0,814,59,2023-09-05,Female,Clothing,High Price,Senior Citizen
+Tue,May,1,150,150.0,822,52,2023-05-23,Female,Beauty,Low Price,Senior Citizen
+Fri,August,1,1500,1500.0,859,56,2023-08-18,Female,Electronics,High Price,Senior Citizen
+Fri,June,1,30,30.0,878,20,2023-06-30,Female,Clothing,Low Price,Youth
+Fri,February,1,1500,1500.0,16,19,2023-02-17,Male,Clothing,High Price,Youth
+Sat,January,1,500,500.0,21,50,2023-01-14,Female,Beauty,High Price,Adult
+Fri,August,1,30,30.0,29,42,2023-08-18,Female,Electronics,Low Price,Adult
+Tue,January,1,100,100.0,64,49,2023-01-24,Male,Clothing,Low Price,Adult
+Sun,January,1,600,600.0,101,32,2023-01-29,Male,Clothing,Medium Price,Young Adult
+Tue,August,1,100,100.0,125,48,2023-08-08,Male,Clothing,Low Price,Adult
+Wed,February,1,2000,2000.0,269,25,2023-02-01,Male,Clothing,High Price,Youth
+Sat,August,1,1200,1200.0,308,34,2023-08-05,Female,Beauty,Medium Price,Young Adult
+Tue,May,1,300,300.0,358,32,2023-05-16,Female,Beauty,Medium Price,Young Adult
+Sun,September,1,50,50.0,375,32,2023-09-17,Male,Clothing,Low Price,Young Adult
+Sat,October,1,60,60.0,456,57,2023-10-14,Male,Electronics,Low Price,Senior Citizen
+Mon,September,1,200,200.0,494,42,2023-09-18,Female,Beauty,Low Price,Adult
+Tue,December,1,100,100.0,609,47,2023-12-19,Female,Clothing,Low Price,Adult
+Sun,March,1,25,25.0,658,59,2023-03-12,Male,Clothing,Low Price,Senior Citizen
+Wed,December,1,50,50.0,712,57,2023-12-06,Female,Beauty,Low Price,Senior Citizen
+Fri,August,1,75,75.0,718,59,2023-08-25,Female,Beauty,Low Price,Senior Citizen
+Wed,December,1,150,150.0,777,48,2023-12-20,Male,Electronics,Low Price,Adult
+Fri,September,1,100,100.0,799,56,2023-09-08,Male,Electronics,Low Price,Senior Citizen
+Wed,May,1,200,200.0,930,54,2023-05-10,Male,Clothing,Low Price,Senior Citizen
+Wed,March,1,150,150.0,978,53,2023-03-22,Female,Clothing,Low Price,Senior Citizen
+Tue,May,1,75,75.0,37,18,2023-05-23,Female,Beauty,Low Price,Youth
+Sun,April,1,200,200.0,61,21,2023-04-09,Male,Beauty,Low Price,Youth
+Wed,November,1,100,100.0,87,28,2023-11-22,Female,Beauty,Low Price,Youth
+Sat,February,1,100,100.0,272,61,2023-02-25,Female,Electronics,Low Price,Senior Citizen
+Fri,August,1,200,200.0,282,64,2023-08-25,Female,Electronics,Low Price,Senior Citizen
+Tue,January,1,200,200.0,300,19,2023-01-31,Female,Electronics,Low Price,Youth
+Tue,February,1,100,100.0,366,57,2023-02-07,Male,Clothing,Low Price,Senior Citizen
+Tue,February,1,25,25.0,371,20,2023-02-21,Female,Beauty,Low Price,Youth
+Fri,January,1,60,60.0,415,53,2023-01-27,Male,Clothing,Low Price,Senior Citizen
+Thu,March,1,150,150.0,471,32,2023-03-23,Male,Clothing,Low Price,Young Adult
+Sat,February,1,50,50.0,473,64,2023-02-25,Male,Beauty,Low Price,Senior Citizen
+Thu,June,1,2000,2000.0,480,42,2023-06-29,Female,Beauty,High Price,Adult
+Thu,November,1,2000,2000.0,595,18,2023-11-09,Female,Clothing,High Price,Youth
+Sun,May,1,1500,1500.0,647,59,2023-05-21,Male,Clothing,High Price,Senior Citizen
+Sun,February,1,200,200.0,740,25,2023-02-05,Female,Beauty,Low Price,Youth
+Sat,July,1,100,100.0,759,49,2023-07-08,Male,Electronics,Low Price,Adult
+Thu,November,1,900,900.0,827,61,2023-11-09,Male,Beauty,Medium Price,Senior Citizen
+Tue,August,1,120,120.0,957,60,2023-08-15,Female,Electronics,Low Price,Senior Citizen
+Thu,November,1,200,200.0,965,22,2023-11-09,Male,Clothing,Low Price,Youth
+Wed,April,1,1500,1500.0,111,34,2023-04-19,Female,Electronics,High Price,Young Adult
+Sat,December,1,1000,1000.0,153,63,2023-12-16,Male,Electronics,High Price,Senior Citizen
+Sun,August,1,90,90.0,219,53,2023-08-20,Female,Electronics,Low Price,Senior Citizen
+Wed,November,1,1500,1500.0,369,23,2023-11-15,Male,Electronics,High Price,Youth
+Wed,March,1,25,25.0,423,27,2023-03-08,Female,Clothing,Low Price,Youth
+Thu,July,1,60,60.0,528,36,2023-07-06,Female,Clothing,Low Price,Young Adult
+Sun,April,1,60,60.0,548,51,2023-04-09,Female,Clothing,Low Price,Senior Citizen
+Tue,October,1,100,100.0,564,50,2023-10-24,Male,Electronics,Low Price,Adult
+Fri,February,1,200,200.0,584,27,2023-02-17,Female,Beauty,Low Price,Youth
+Thu,June,1,1200,1200.0,587,40,2023-06-08,Female,Beauty,Medium Price,Young Adult
+Tue,August,1,120,120.0,598,37,2023-08-01,Male,Beauty,Low Price,Young Adult
+Fri,July,1,150,150.0,668,62,2023-07-28,Female,Electronics,Low Price,Senior Citizen
+Tue,March,1,50,50.0,705,60,2023-03-07,Male,Electronics,Low Price,Senior Citizen
+Tue,November,1,50,50.0,762,24,2023-11-07,Female,Electronics,Low Price,Youth
+Tue,December,1,30,30.0,879,23,2023-12-26,Male,Clothing,Low Price,Youth
+Mon,May,1,120,120.0,895,55,2023-05-22,Female,Clothing,Low Price,Senior Citizen
+Sun,May,1,75,75.0,988,63,2023-05-28,Female,Clothing,Low Price,Senior Citizen
